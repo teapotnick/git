@@ -96,7 +96,7 @@
 
     <div class="row featurette">
     	<div class="col-md-5">
-    		<img class="featurette-image img-responsive" src="https://assets-cdn.github.com/images/modules/open_graph/github-octocat.png" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
+    		<img class="featurette-image img-responsive" src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0CAcQjRw&url=http%3A%2F%2Fwww.jaunted.com%2Fstory%2F2012%2F5%2F9%2F14132%2F42587%2Ftravel%2FFive%2BZoos%2Bfor%2BVisiting%2BBaby%2BGiraffes&ei=-teBVPj-JY3XaqLzgiA&bvm=bv.80642063,d.ZGU&psig=AFQjCNEfYylp9fQs8zHfqBbXBH4GVNvLhQ&ust=1417881972385189" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
     	</div>
     	<div class="col-md-7">
     		<h2 class="featurette-heading">Oh yeah, it's that good. <span class="text-muted">See for yourself.</span></h2>
