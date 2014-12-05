@@ -113,7 +113,7 @@
     	</div>
     	<div class="col-md-5">
 
-    		<img class="featurette-image img-responsive" src="http://www.horseloverslodge.com/images/image7.jpeg" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
+    		<img class="featurette-image img-responsive" src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0CAcQjRw&url=http%3A%2F%2Fwww.duiops.net%2Fseresvivos%2Fgallery_giraffes.html&ei=WteBVNaYNNSradjjgZAM&bvm=bv.80642063,d.ZGU&psig=AFQjCNHD3LCu9d9JVK559kclrqQxp0gtEw&ust=1417881814844099" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
     	</div>
     </div>
 
