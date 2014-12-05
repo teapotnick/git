@@ -13,8 +13,8 @@
 
     <div class="row featurette">
     	<div class="col-md-7">
-    		<h2 class="featurette-heading">First featurette heading. <span class="text-muted">It'll blow your mind.</span></h2>
-    		<p class="lead">Hope all is well in the land of code.</p>
+    		<h2 class="featurette-heading">You say Git? <span class="text-muted">I am listening.</span></h2>
+    		<p class="lead">Version control management, yeah?</p>
     	</div>
     	<div class="col-md-5">
     		<img class="featurette-image img-responsive" src="http://media.giphy.com/media/ZKA0VSVuFeeBO/giphy.gif" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
