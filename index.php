@@ -14,8 +14,7 @@
     		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="First slide">
     		<div class="container">
     			<div class="carousel-caption">
-
-    				<h1>Conflict this mofo</h1>
+    				<h1>Jasons h1 tag change</h1>
 
     				<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
     				<p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
@@ -85,7 +84,7 @@
     <div class="row featurette">
     	<div class="col-md-7">
     		<h2 class="featurette-heading">First featurette heading. <span class="text-muted">It'll blow your mind.</span></h2>
-    		<p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+    		<p class="lead">Hope all is well in the land of code.</p>
     	</div>
     	<div class="col-md-5">
     		<img class="featurette-image img-responsive" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
@@ -112,7 +111,7 @@
     		<p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
     	</div>
     	<div class="col-md-5">
-    		<img class="featurette-image img-responsive" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
+    		<img class="featurette-image img-responsive" src="http://www.horseloverslodge.com/images/image7.jpeg" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
     	</div>
     </div>
 
