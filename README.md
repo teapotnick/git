@@ -1,4 +1,4 @@
-# Develop Me Git Exercise
+# Develop Me Git Exercise SECOND AMEND
 
 This repository has been set up for the Git Workshop attendees to have a go working on and committing work to a Git repository.
 
