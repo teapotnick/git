@@ -1,4 +1,4 @@
-<?php include('template-parts/header.php'); ?>
+<?php include('../template-parts/header.php'); ?>
 
 
 <!-- Carousel Carousel Carousel -->
@@ -12,7 +12,7 @@
     </ol>
     <div class="carousel-inner">
     	<div class="item active">
-    		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="First slide">
+    		<img src="http://1.bp.blogspot.com/-CT8Y805HZow/TxltRRs5VbI/AAAAAAAAXSE/4ER__amNkms/s1600/Giraffe-achtergronden-dieren-hd-giraffe-wallpapers-foto-15.jpg" alt="First slide">
     		<div class="container">
     			<div class="carousel-caption">
     				<h1>Jasons h1 tag change -  another edit</h1>
@@ -130,4 +130,4 @@
 
 </div><!-- /.container -->
 
-<?php include('template-parts/footer.php'); ?>
+<?php include('../template-parts/footer.php'); ?>
