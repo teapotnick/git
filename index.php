@@ -88,7 +88,7 @@
     		<p class="lead">Hope all is well in the land of code.</p>
     	</div>
     	<div class="col-md-5">
-    		<img class="featurette-image img-responsive" data-src="http://picttwo.com/wp-content/uploads/2014/10/cute-animal-pictures.jpg" height="500" width="500" alt="Kitten">
+    		<img class="featurette-image img-responsive" src="http://picttwo.com/wp-content/uploads/2014/10/cute-animal-pictures.jpg" height="500" width="500" alt="Kitten">
     	</div>
     </div>
 
