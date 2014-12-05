@@ -96,7 +96,7 @@
 
     <div class="row featurette">
     	<div class="col-md-5">
-    		<img class="featurette-image img-responsive" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
+    		<img class="featurette-image img-responsive" src="https://assets-cdn.github.com/images/modules/open_graph/github-octocat.png" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
     	</div>
     	<div class="col-md-7">
     		<h2 class="featurette-heading">Oh yeah, it's that good. <span class="text-muted">See for yourself.</span></h2>
@@ -109,7 +109,7 @@
     <div class="row featurette">
     	<div class="col-md-7">
     		<h2 class="featurette-heading">This horse loves <span class="text-muted">Git</span></h2>
-    		<p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+    		<p class="lead">Look at that horse! This is one happy, badass horse who started using git version management control.</p>
     	</div>
     	<div class="col-md-5">
 
