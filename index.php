@@ -1,7 +1,8 @@
 <?php include('template-parts/header.php'); ?>
 
-<!-- Carousel Changes here to make it fail
-================================================== -->
+
+<!-- Carousel Carousel Carousel
+
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
     <ol class="carousel-indicators">
