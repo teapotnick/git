@@ -1,6 +1,6 @@
 <?php include('template-parts/header.php'); ?>
 
-<!-- Carousel
+<!-- Carousel Changes here to make it fail
 ================================================== -->
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
