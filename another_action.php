@@ -23,6 +23,18 @@
 
     <hr class="featurette-divider">
 
+    <div class="row featurette">
+        <div class="col-md-7">
+            <h2 class="featurette-heading">I dont wanna code without <span class="text-muted"> Git anymore</span></h2>
+            <p class="lead">Git come and save me!</p>
+        </div>
+        <div class="col-md-5">
+            <img class="featurette-image img-responsive" src="http://www.animalhdwallpapers.com/wp-content/uploads/wallpapers/Giraffe/Crazy-Giraffe-Wallpaper.jpg" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
+        </div>
+    </div>
+
+    <hr class="featurette-divider">
+
     <!-- /END THE FEATURETTES -->
 
 
