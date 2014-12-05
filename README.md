@@ -1,5 +1,5 @@
 # Develop Me Git Exercise
-
+Dave
 This repository has been set up for the Git Workshop attendees to have a go working on and committing work to a Git repository.
 
 It is a simple [Bootstrap](http://getbootstrap.com/) webpage that has had the [Carousel](http://getbootstrap.com/examples/carousel/) theme applied.
