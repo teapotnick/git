@@ -109,7 +109,7 @@
     <div class="row featurette">
     	<div class="col-md-7">
     		<h2 class="featurette-heading">This horse loves <span class="text-muted">Git</span></h2>
-    		<p class="lead">Look at that horse! This is one happy, badass horse who started usig git version management control.</p>
+    		<p class="lead">Look at that horse! This is one happy, badass horse who started using git version management control.</p>
     	</div>
     	<div class="col-md-5">
 
