@@ -12,12 +12,12 @@
     </ol>
     <div class="carousel-inner">
     	<div class="item active">
-    		<img src="http://1.bp.blogspot.com/-CT8Y805HZow/TxltRRs5VbI/AAAAAAAAXSE/4ER__amNkms/s1600/Giraffe-achtergronden-dieren-hd-giraffe-wallpapers-foto-15.jpg" alt="First slide">
+    		<img src="http://upload.wikimedia.org/wikipedia/commons/0/07/Giraffe08_-_melbourne_zoo.jpg" alt="First slide">
     		<div class="container">
     			<div class="carousel-caption">
-    				<h1>Jasons h1 tag change -  another edit</h1>
+    				<h1>Are you using Git?</h1>
 
-    				<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+    				<p>Oh, You better be! Just don't make me mad and take the course created by the awesome Develop.me team.</p>
     				<p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
     			</div>
     		</div>
