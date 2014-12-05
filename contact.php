@@ -37,10 +37,31 @@
 
     <div class="row featurette">
         <div class="col-md-12">
-            <h2><i class="fa fa-comment fa-5x"></i> Call me - 0800 999 888 777</h2>
-            <h2><i class="fa fa-envelope fa-5x"></i> Mail me - longneck@giraffelovers.com</h2>
-            <h2><i class="fa fa-linkedin fa-5x"></i> Linkedin - linkedin.com/iseeyou</h2>
-            <h2><i class="fa fa-twitter fa-5x"></i> Twitter @furryhorns</h2>
+
+            <table>
+                <tbody>
+                    <tr>
+                        <td width="300"><i class="fa fa-comment fa-5x"></i></td>
+                        <td><p> Call me - 0800 999 888 777</p></td>
+                    </tr>
+                     <tr>
+                        <td><i class="fa fa-envelope fa-5x"></i></td>
+                        <td><p> Mail me - longneck@giraffelovers.com</p></td>
+                    </tr>
+                     <tr>
+                        <td><i class="fa fa-linkedin fa-5x"></i></td>
+                        <td><p>Linkedin - linkedin.com/iseeyou</p></td>
+                    </tr>
+                    <tr>
+                        <td><i class="fa fa-twitter fa-5x"></i></i></td>
+                        <td><p>Twitter @furryhorns</p></td>
+                    </tr>
+                </tbody>
+            </table>
+            
+            
+            
+            
         </div>
     </div>
 
