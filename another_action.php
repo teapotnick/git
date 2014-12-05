@@ -17,7 +17,7 @@
     		<p class="lead">Hope all is well in the land of code.</p>
     	</div>
     	<div class="col-md-5">
-    		<img class="featurette-image img-responsive" src="http://media.giphy.com/media/srfOhMJQcIEGk/giphy.gif" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
+    		<img class="featurette-image img-responsive" src="http://media.giphy.com/media/ZKA0VSVuFeeBO/giphy.gif" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
     	</div>
     </div>
 
