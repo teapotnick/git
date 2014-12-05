@@ -1,7 +1,7 @@
 <?php include('template-parts/header.php'); ?>
 
 
-<!-- Carousel Carousel Carousel
+<!-- Carousel Carousel Carousel -->
 
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
