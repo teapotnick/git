@@ -25,7 +25,7 @@
 
     <div class="row featurette">
         <div class="col-md-7">
-            <h2 class="featurette-heading">I am your Giraffe Lord,  <span class="text-muted">I love it when you talk to me.</span></h2>
+            <h2 class="featurette-heading">I am your Giraffe Lord<br>  <span class="text-muted">I love it when you talk to me.</span></h2>
             <p class="lead">Please get in touch with me using the following details</p>
         </div>
         <div class="col-md-5">
