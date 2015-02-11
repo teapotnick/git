@@ -22,7 +22,6 @@
 <!-- Carousel
 ================================================== -->
 
-<invalid-xml>
 <script>
 	alert('Bad JavaScript');
 </script>
