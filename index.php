@@ -1,6 +1,6 @@
 <?php
 	include('template-parts/header.php');
-        $numOfSliders = 3;
+	$numOfSliders = 3;
 ?>
 
 <!-- Carousel
@@ -116,4 +116,4 @@
 
 </div><!-- /.container -->
 
-<?php include('template-parts/footer.php'); ?>
+<?php include('./template-parts/footer.php'); ?>
