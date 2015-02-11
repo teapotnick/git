@@ -1,4 +1,7 @@
-<?php include('template-parts/header.php'); ?>
+<?php
+    include('template-parts/header.php'); 
+    $var = 200;
+?>
 
 <!-- Carousel
 ================================================== -->
@@ -10,7 +13,12 @@
     	<li data-target="#myCarousel" data-slide-to="2"></li>
     </ol>
     <div class="carousel-inner">
-    	<div class="item active">
+        <?php
+        $counter = 0;
+        $firstime = " active";
+        while ($counter <4){
+        ?>
+    	<div class="item<?=$firstime?>">
     		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="First slide">
     		<div class="container">
     			<div class="carousel-caption">
@@ -20,26 +28,11 @@
     			</div>
     		</div>
     	</div>
-    	<div class="item">
-    		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAGZmZgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Second slide">
-    		<div class="container">
-    			<div class="carousel-caption">
-    				<h1>Slide 2 Heading</h1>
-    				<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-    				<p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
-    			</div>
-    		</div>
-    	</div>
-    	<div class="item">
-    		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAFVVVQAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Third slide">
-    		<div class="container">
-    			<div class="carousel-caption">
-    				<h1>Slide 3 Heading</h1>
-    				<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-    				<p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
-    			</div>
-    		</div>
-    	</div>
+        <?php
+        $firsttime = "";
+            $counter ++;
+        }
+        ?>
     </div>
     <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
     <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
