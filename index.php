@@ -105,11 +105,10 @@
 
 	<!-- /END THE FEATURETTES -->
 
-
 	<!-- FOOTER -->
 	<footer>
 		<p class="pull-right"><a href="#">Back to top</a></p>
-                <p>&copy; 2015 Company, Inc. · <a href="#">Privacy</a> · <a href="#">Terms</a></p>
+		<p>Â© 2015 Company, Inc. Â· <a href="#">Privacy</a> Â· <a href="#">Terms</a></p>
 	</footer>
 
 </div><!-- /.container -->
