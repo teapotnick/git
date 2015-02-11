@@ -8,7 +8,7 @@
 				'alt' => 'Chris\'s car',
 			),
 		array(
-				'src' => 'images/car2.jpg',
+				'src' => 'images/car2.png',
 				'alt' => 'James\'s car',
 			),
 		array(
