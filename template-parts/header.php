@@ -12,10 +12,10 @@
 	$request_accept = (isset($_SERVER['HTTP_ACCEPT']) ? $_SERVER['HTTP_ACCEPT'] : '');
 
 	$mime_xml = 'application/xhtml+xml';
-	if (stripos($request_accept, $mime_xml) === false) {
-		$mime_type = 'text/html';
-	} else {
+	if (stripos($request_accept, $mime_xml) !== false) {
 		$mime_type = $mime_xml;
+	} else {
+		$mime_type = 'text/html';
 	}
 
 //--------------------------------------------------
