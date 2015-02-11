@@ -1,6 +1,7 @@
 <?php
     include('template-parts/header.php');
     $var = 200;
+    $var2 = 201;
 ?>
 
 <!-- Carousel
