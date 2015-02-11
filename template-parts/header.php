@@ -5,6 +5,7 @@
 
 	define('CHARSET', 'UTF-8');
 	define('LANG', 'en');
+	define('FRAMING', 'DENY');
 
 //--------------------------------------------------
 // Mime type
@@ -30,9 +31,50 @@
 	}
 
 //--------------------------------------------------
+// Content Security Policy
+
+	$csp = array(
+			'default-src'     => array("'none'"),
+			'form-action'     => array("'self'"),
+			'style-src'       => array("'self'"),
+			'font-src'        => array("'self'"),
+			'img-src'         => array("'self'", 'data:', 'https://placekitten.com/'),
+			'script-src'      => array("'self'", 'https://ajax.googleapis.com'),
+			'reflected-xss'   => 'block',
+		);
+
+	$enforced = true;
+
+	if ($enforced) {
+		$header = 'Content-Security-Policy';
+	} else {
+		$header = 'Content-Security-Policy-Report-Only';
+	}
+
+	if (FRAMING == 'DENY') {
+		$csp['frame-ancestors'] = "'none'";
+	} else if (FRAMING == 'SAMEORIGIN') {
+		$csp['frame-ancestors'] = "'self'";
+	}
+
+	$output = array();
+	foreach ($csp as $directive => $value) {
+		if ($value !== NULL) {
+			if (is_array($value)) {
+				$value = implode(' ', $value);
+			}
+			$output[] = $directive . ' ' . str_replace('"', "'", $value);
+		}
+	}
+
+	header($header . ': ' . head(implode('; ', $output)));
+
+//--------------------------------------------------
 // Headers
 
 	header('Content-Type: ' . head($mime_type) . '; charset=' . head(CHARSET));
+	header('X-XSS-Protection: 1; mode=block');
+	header('X-Frame-Options: ' . head(FRAMING));
 
 ?>
 <!DOCTYPE html>
@@ -59,7 +101,6 @@
 		<!-- Custom styles for this template -->
 		<link href="/css/carousel.css" rel="stylesheet" />
 		<link href="/css/customisations.css" rel="stylesheet" />
-		<script src="/js/holder.js"></script>
 	</head>
 <!-- NAVBAR
 ================================================== -->
