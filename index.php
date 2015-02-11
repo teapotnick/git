@@ -1,6 +1,17 @@
 <?php
 	include('template-parts/header.php');
 	$numOfSliders = 3;
+        
+        $images = array();
+        
+        $images[1]['src'] = 'images/car1.jpg';
+        $images[1]['alt'] = "Chris\'s car";
+
+        $images[2]['src'] = 'images/car2.png';
+        $images[2]['alt'] = "James's Car";
+        
+        $images[3]['src'] = 'images/car3.jpg';
+        $images[3]['alt'] = "Craigs\'s car";
 ?>
 
 <!-- Carousel
@@ -17,7 +28,9 @@
 		<?php for ($counter = 1; $counter <= $numOfSliders; $counter++) { ?>
 
 			<div class="item<?= ($counter == 1 ? ' active' : '')?>">
-				<img src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="First slide" />
+                            
+				<img src="<?=$images[$counter]['src']?>" alt="<?=$images[$counter]['alt']?>" />
+                                
 				<div class="container">
 					<div class="carousel-caption">
 						<h1>Slide <?= html($counter) ?> Heading</h1>
