@@ -43,7 +43,7 @@
 				<div class="container">
 					<div class="carousel-caption">
 						<h1>Slide <?= html($k + 1) ?> Heading</h1>
-						<p>A picture of "<?= html($image['alt']) ?>".</p>
+						<p>A picture of <?= html($image['alt']) ?></p>
 						<p><a class="btn btn-lg btn-primary" href="/" role="button">Click there</a></p>
 					</div>
 				</div>
