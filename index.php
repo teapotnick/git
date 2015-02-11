@@ -1,5 +1,6 @@
 <?php
 	include('template-parts/header.php');
+        $numOfSliders = 3;
 ?>
 
 <!-- Carousel
@@ -7,13 +8,13 @@
 <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="false">
 	<!-- Indicators -->
 	<ol class="carousel-indicators">
-            <?php for ($counter = 0; $counter < 3; $counter++) { ?>
-		<li data-target="#myCarousel" data-slide-to="<?=$counter?>" <?= ($counter == 1 ? ' class="active" ' : '')?>></li>
+            <?php for ($counter = 0; $counter < $numOfSliders; $counter++) { ?>
+		<li data-target="#myCarousel" data-slide-to="<?=$counter?>" <?= ($counter == 0 ? ' class="active" ' : '')?>></li>
             <?php }?>
 	</ol>
 	<div class="carousel-inner">
 
-		<?php for ($counter = 1; $counter <= 3; $counter++) { ?>
+		<?php for ($counter = 1; $counter <= $numOfSliders; $counter++) { ?>
 
 			<div class="item<?= ($counter == 1 ? ' active' : '')?>">
 				<img src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="First slide" />
