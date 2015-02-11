@@ -14,13 +14,13 @@
     </ol>
     <div class="carousel-inner">
 
-		<?php for ($counter = 0; $counter <= 3; $counter++) { ?>
+		<?php for ($counter = 1; $counter <= 3; $counter++) { ?>
 
-			<div class="item<?= ($counter == 0 ? ' active' : '')?>">
+			<div class="item<?= ($counter == 1 ? ' active' : '')?>">
 				<img src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="First slide" />
 				<div class="container">
 					<div class="carousel-caption">
-						<h1>Slide <?=$counter+1?> Heading</h1>
+						<h1>Slide <?= html($counter+1) ?> Heading</h1>
 						<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
 						<p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
 					</div>
