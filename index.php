@@ -1,6 +1,4 @@
-<?php
-	include('template-parts/header.php');
-?>
+<?php include('./template-parts/header.php'); ?>
 
 <!-- Carousel
 ================================================== -->
@@ -115,4 +113,4 @@
 
 </div><!-- /.container -->
 
-<?php include('template-parts/footer.php'); ?>
+<?php include('./template-parts/footer.php'); ?>
