@@ -22,10 +22,6 @@
 <!-- Carousel
 ================================================== -->
 
-<script>
-	alert('Bad JavaScript');
-</script>
-
 <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="false">
 
 	<ol class="carousel-indicators">
