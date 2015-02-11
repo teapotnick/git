@@ -4,11 +4,11 @@
 
 	$images = array(
 		array(
-				'src' => 'images/car1.jpg',
+				'src' => 'images/car2.png',
 				'alt' => 'Chris\'s car',
 			),
 		array(
-				'src' => 'images/car2.png',
+				'src' => 'images/car1.jpg',
 				'alt' => 'James\'s car',
 			),
 		array(
@@ -48,7 +48,7 @@
 				<div class="container">
 					<div class="carousel-caption">
 						<h1>Slide <?= html($k + 1) ?> Heading</h1>
-						<p>A picture of "<?= html($image['alt']) ?>".</p>
+						<p>A picture of <?= html($image['alt']) ?></p>
 						<p><a class="btn btn-lg btn-primary" href="/" role="button">Click there</a></p>
 					</div>
 				</div>
@@ -113,7 +113,7 @@
 	<!-- FOOTER -->
 	<footer>
 		<p class="pull-right"><a href="#">Back to top</a></p>
-		<p>© 2015 Company, Inc. · <a href="#">Privacy</a> · <a href="#">Terms</a></p>
+		<p>&copy; 2015 Company, Inc. · <a href="#">Privacy</a> · <a href="#">Terms</a></p>
 	</footer>
 
 </div><!-- /.container -->
