@@ -13,7 +13,7 @@
 	</ol>
 	<div class="carousel-inner">
 
-		<?php for ($counter = 1; $counter <= 3; $counter++) { ?>
+		<?php for ($counter = 1; $counter <= $var; $counter++) { ?>
 
 			<div class="item<?= ($counter == 1 ? ' active' : '')?>">
 				<img src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="First slide" />
