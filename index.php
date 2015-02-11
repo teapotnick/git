@@ -1,40 +1,49 @@
 <?php
+
 	include('template-parts/header.php');
-	$numOfSliders = 3;
 
-        $images = array();
+	$images = array(
+		array(
+				'src' => 'images/car1.jpg',
+				'alt' => 'Chris\'s car',
+			),
+		array(
+				'src' => 'images/car2.jpg',
+				'alt' => 'James\'s car',
+			),
+		array(
+				'src' => 'images/car3.jpg',
+				'alt' => 'Craig\'s car',
+			),
+	);
 
-        $images[1]['src'] = 'images/car1.jpg';
-        $images[1]['alt'] = "Chris\'s car";
-
-        $images[2]['src'] = 'images/car2.png';
-        $images[2]['alt'] = "James's Car";
-
-        $images[3]['src'] = 'images/car3.jpg';
-        $images[3]['alt'] = "Craigs\'s car";
 ?>
 
 <!-- Carousel
 ================================================== -->
+
 <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="false">
-	<!-- Indicators -->
+
 	<ol class="carousel-indicators">
-            <?php for ($counter = 0; $counter < $numOfSliders; $counter++) { ?>
-		<li data-target="#myCarousel" data-slide-to="<?= html($counter) ?>" <?= ($counter == 0 ? ' class="active" ' : '')?>></li>
-            <?php }?>
+
+		<?php foreach ($images as $k => $image) { ?>
+			<li data-target="#myCarousel" data-slide-to="<?= html($k) ?>" <?= ($k == 0 ? ' class="active" ' : '')?>></li>
+		<?php }?>
+
 	</ol>
+
 	<div class="carousel-inner">
 
-		<?php for ($counter = 1; $counter <= $numOfSliders; $counter++) { ?>
+		<?php foreach ($images as $k => $image) { ?>
 
-			<div class="item<?= ($counter == 1 ? ' active' : '')?>">
+			<div class="item<?= ($k == 0 ? ' active' : '')?>">
 
-				<img src="<?= head($images[$counter]['src']) ?>" alt="<?= head($images[$counter]['alt']) ?>" />
+				<img src="<?= head($image['src']) ?>" alt="<?= head($image['alt']) ?>" />
 
 				<div class="container">
 					<div class="carousel-caption">
-						<h1>Slide <?= html($counter) ?> Heading</h1>
-						<p>A picture of "<?= head($images[$counter]['alt']) ?>".</p>
+						<h1>Slide <?= html($k + 1) ?> Heading</h1>
+						<p>A picture of "<?= head($image['alt']) ?>".</p>
 						<p><a class="btn btn-lg btn-primary" href="/" role="button">Click there</a></p>
 					</div>
 				</div>
@@ -44,8 +53,10 @@
 		<?php } ?>
 
 	</div>
+
 	<a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev"><span class="glyphicon glyphicon-chevron-right"></span></a>
 	<a class="right carousel-control" href="#myCarousel" role="button" data-slide="next"><span class="glyphicon glyphicon-chevron-left"></span></a>
+
 </div><!-- /.carousel -->
 
 
