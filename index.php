@@ -1,15 +1,15 @@
 <?php
 	include('template-parts/header.php');
 	$numOfSliders = 3;
-        
+
         $images = array();
-        
+
         $images[1]['src'] = 'images/car1.jpg';
         $images[1]['alt'] = "Chris\'s car";
 
         $images[2]['src'] = 'images/car2.png';
         $images[2]['alt'] = "James's Car";
-        
+
         $images[3]['src'] = 'images/car3.jpg';
         $images[3]['alt'] = "Craigs\'s car";
 ?>
@@ -20,7 +20,7 @@
 	<!-- Indicators -->
 	<ol class="carousel-indicators">
             <?php for ($counter = 0; $counter < $numOfSliders; $counter++) { ?>
-		<li data-target="#myCarousel" data-slide-to="<?=$counter?>" <?= ($counter == 0 ? ' class="active" ' : '')?>></li>
+		<li data-target="#myCarousel" data-slide-to="<?= html($counter) ?>" <?= ($counter == 0 ? ' class="active" ' : '')?>></li>
             <?php }?>
 	</ol>
 	<div class="carousel-inner">
@@ -28,16 +28,17 @@
 		<?php for ($counter = 1; $counter <= $numOfSliders; $counter++) { ?>
 
 			<div class="item<?= ($counter == 1 ? ' active' : '')?>">
-                            
-				<img src="<?=$images[$counter]['src']?>" alt="<?=$images[$counter]['alt']?>" />
-                                
+
+				<img src="<?= head($images[$counter]['src']) ?>" alt="<?= head($images[$counter]['alt']) ?>" />
+
 				<div class="container">
 					<div class="carousel-caption">
 						<h1>Slide <?= html($counter) ?> Heading</h1>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+						<p>A picture of "<?= head($images[$counter]['alt']) ?>".</p>
 						<p><a class="btn btn-lg btn-primary" href="/" role="button">Click there</a></p>
 					</div>
 				</div>
+
 			</div>
 
 		<?php } ?>
