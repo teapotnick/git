@@ -36,9 +36,9 @@
 	$csp = array(
 			'default-src'     => array("'none'"),
 			'form-action'     => array("'self'"),
-			'style-src'       => array("'self'", "'unsafe-inline'"),
+			'style-src'       => array("'self'"),
 			'font-src'        => array("'self'"),
-			'img-src'         => array("'self'", 'data:'),
+			'img-src'         => array("'self'", 'data:', 'https://placekitten.com/'),
 			'script-src'      => array("'self'", 'https://ajax.googleapis.com'),
 			'reflected-xss'   => 'block',
 		);
@@ -101,7 +101,6 @@
 		<!-- Custom styles for this template -->
 		<link href="/css/carousel.css" rel="stylesheet" />
 		<link href="/css/customisations.css" rel="stylesheet" />
-		<script src="/js/holder.js"></script>
 	</head>
 <!-- NAVBAR
 ================================================== -->
