@@ -1,6 +1,17 @@
 <?php
 	include('template-parts/header.php');
 	$numOfSliders = 3;
+
+        $images = array();
+
+        $images[1]['src'] = 'images/car1.jpg';
+        $images[1]['alt'] = "Chris\'s car";
+
+        $images[2]['src'] = 'images/car2.png';
+        $images[2]['alt'] = "James's Car";
+
+        $images[3]['src'] = 'images/car3.jpg';
+        $images[3]['alt'] = "Craigs\'s car";
 ?>
 
 <!-- Carousel
@@ -9,7 +20,7 @@
 	<!-- Indicators -->
 	<ol class="carousel-indicators">
             <?php for ($counter = 0; $counter < $numOfSliders; $counter++) { ?>
-		<li data-target="#myCarousel" data-slide-to="<?=$counter?>" <?= ($counter == 0 ? ' class="active" ' : '')?>></li>
+		<li data-target="#myCarousel" data-slide-to="<?= html($counter) ?>" <?= ($counter == 0 ? ' class="active" ' : '')?>></li>
             <?php }?>
 	</ol>
 	<div class="carousel-inner">
@@ -17,14 +28,17 @@
 		<?php for ($counter = 1; $counter <= $numOfSliders; $counter++) { ?>
 
 			<div class="item<?= ($counter == 1 ? ' active' : '')?>">
-				<img src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="First slide" />
+
+				<img src="<?= head($images[$counter]['src']) ?>" alt="<?= head($images[$counter]['alt']) ?>" />
+
 				<div class="container">
 					<div class="carousel-caption">
 						<h1>Slide <?= html($counter) ?> Heading</h1>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+						<p>A picture of "<?= head($images[$counter]['alt']) ?>".</p>
 						<p><a class="btn btn-lg btn-primary" href="/" role="button">Click there</a></p>
 					</div>
 				</div>
+
 			</div>
 
 		<?php } ?>
@@ -45,19 +59,19 @@
 	<!-- Three columns of text below the carousel -->
 	<div class="row">
 		<div class="col-lg-4">
-			<img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" style="width: 140px; height: 140px;" />
+			<img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140" />
 			<h2>Heading</h2>
 			<p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
 			<p><a class="btn btn-default" href="#" role="button">View details »</a></p>
 		</div><!-- /.col-lg-4 -->
 		<div class="col-lg-4">
-			<img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" style="width: 140px; height: 140px;" />
+			<img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140" />
 			<h2>Heading</h2>
 			<p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
 			<p><a class="btn btn-default" href="#" role="button">View details »</a></p>
 		</div><!-- /.col-lg-4 -->
 		<div class="col-lg-4">
-			<img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" style="width: 140px; height: 140px;" />
+			<img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140" />
 			<h2>Heading</h2>
 			<p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
 			<p><a class="btn btn-default" href="#" role="button">View details »</a></p>
