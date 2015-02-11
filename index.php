@@ -4,11 +4,11 @@
 
 	$images = array(
 		array(
-				'src' => 'images/car1.jpg',
+				'src' => 'images/car2.png',
 				'alt' => 'Chris\'s car',
 			),
 		array(
-				'src' => 'images/car2.png',
+				'src' => 'images/car1.jpg',
 				'alt' => 'James\'s car',
 			),
 		array(
@@ -108,7 +108,7 @@
 	<!-- FOOTER -->
 	<footer>
 		<p class="pull-right"><a href="#">Back to top</a></p>
-		<p>© 2015 Company, Inc. · <a href="#">Privacy</a> · <a href="#">Terms</a></p>
+		<p>&copy; 2015 Company, Inc. · <a href="#">Privacy</a> · <a href="#">Terms</a></p>
 	</footer>
 
 </div><!-- /.container -->
