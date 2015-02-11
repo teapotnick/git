@@ -7,9 +7,9 @@
 <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="false">
 	<!-- Indicators -->
 	<ol class="carousel-indicators">
-		<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-		<li data-target="#myCarousel" data-slide-to="1"></li>
-		<li data-target="#myCarousel" data-slide-to="2"></li>
+            <?php for ($counter = 0; $counter < 3; $counter++) { ?>
+		<li data-target="#myCarousel" data-slide-to="<?=$counter?>" <?= ($counter == 1 ? ' class="active" ' : '')?>></li>
+            <?php }?>
 	</ol>
 	<div class="carousel-inner">
 
@@ -21,7 +21,7 @@
 					<div class="carousel-caption">
 						<h1>Slide <?= html($counter) ?> Heading</h1>
 						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
-						<p><a class="btn btn-lg btn-primary" href="/" role="button">Click here</a></p>
+						<p><a class="btn btn-lg btn-primary" href="/" role="button">Click there</a></p>
 					</div>
 				</div>
 			</div>
@@ -29,8 +29,8 @@
 		<?php } ?>
 
 	</div>
-	<a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
-	<a class="right carousel-control" href="#myCarousel" role="button" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
+	<a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev"><span class="glyphicon glyphicon-chevron-right"></span></a>
+	<a class="right carousel-control" href="#myCarousel" role="button" data-slide="next"><span class="glyphicon glyphicon-chevron-left"></span></a>
 </div><!-- /.carousel -->
 
 
