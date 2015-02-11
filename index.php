@@ -20,8 +20,8 @@
 				<div class="container">
 					<div class="carousel-caption">
 						<h1>Slide <?= html($counter) ?> Heading</h1>
-						<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-						<p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+						<p><a class="btn btn-lg btn-primary" href="/" role="button">Click here</a></p>
 					</div>
 				</div>
 			</div>
