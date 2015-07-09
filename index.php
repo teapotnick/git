@@ -38,7 +38,7 @@ jQuery(document).ready(function($){
     $(window).load(function(){
         $('#myModal').modal('show');
     });
-})(jQuery);
+});
 </script>
 
 <!-- HTML Codes by Hscripts.com -->
