@@ -22,6 +22,7 @@
 		<!-- Custom styles for this template -->
 		<link href="/css/carousel.css" rel="stylesheet">
 		<link href="/css/customisations.css" rel="stylesheet">
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 		<script src="/js/holder.js"></script>
 		<script type="text/javascript">
 		jQuery(document).ready(function($){
