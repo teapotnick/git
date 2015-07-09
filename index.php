@@ -9,6 +9,11 @@
     	<li data-target="#myCarousel" data-slide-to="1"></li>
     	<li data-target="#myCarousel" data-slide-to="2"></li>
     </ol>
+	
+	
+	<div class="fallingPies"></div>
+
+	
     <div class="carousel-inner">
         <div class="item active">
     		<img src="images/Apple_pie.jpg" alt="Third slide">
