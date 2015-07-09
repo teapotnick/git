@@ -33,7 +33,6 @@
     	<li data-target="#myCarousel" data-slide-to="2"></li>
     </ol>
 	
-	
 
 
 
@@ -164,5 +163,11 @@
     </footer>
 
 </div><!-- /.container -->
-
+	<img id ="imgFollow" src="https://cdn3.iconfinder.com/data/icons/snack-time/400/snack_time-27-512.png">
+<script>
+$(document).ready(function(){
+});
+$(document).mousemove(function(e){
+$(‘#imgFollow’).offset({left:e.pageX,top:e.pageY+15});   });
+</script>
 <?php include('template-parts/footer.php'); ?>
