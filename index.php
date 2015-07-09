@@ -40,7 +40,8 @@
     		<img src="images/Apple_pie.jpg" alt="Third slide">
     		<div class="container">
     			<div class="carousel-caption">
-    				<h1>HMMMMMM, pie!!</h1>
+    				<h1>HMMMMMM, pie!! -</h1>
+                    <p><img src = "https://nerdswithbenefits.files.wordpress.com/2010/11/no_pie_zone_abs_final.jpg"/>
     				<p>I've created a lovely need slider, but the background has been changed, AHHHHHHHH</p>
     				<p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
     			</div>
