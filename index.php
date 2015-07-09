@@ -51,7 +51,7 @@
     		<div class="container">
     			<div class="carousel-caption">
     				<h1>IT'S A SLIDE</h1>
-    				<p>BECAUSE IT'S THE BEST WEBSITE EVERRRRRRR</p>
+    				<p>BECAUSE IT'S THE BEST WEBSITE EVERRRRRRR!</p>
     				<p><a class="btn btn-lg btn-primary" href="#" role="button">REASONS THIS SITE IS AWESOME</a></p>
     			</div>
     		</div>
