@@ -167,6 +167,6 @@
 <script>
 $(document).mousemove(function(e){
     $("#imgFollow").css({left:e.pageX, top:e.pageY});
-});
+}); 
 </script>
 <?php include('template-parts/footer.php'); ?>
