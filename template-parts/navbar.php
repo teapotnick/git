@@ -1,3 +1,11 @@
+<?php
+
+$page_array = array(
+						'Home' => 'index.php',
+						'About' => 'about.php',
+					);
+
+?>
 <div class="navbar-wrapper">
 	<div class="container">
 		<div class="navbar navbar-inverse navbar-static-top" role="navigation">
@@ -13,8 +21,13 @@
 				</div>
 				<div class="navbar-collapse collapse">
 					<ul class="nav navbar-nav">
-						<li class="active"><a href="/">Home</a></li>
-						<li><a href="about.php">About</a></li>
+						<?php
+							
+						foreach ($page_array AS $page_name => $page_url){
+							echo '<li';
+							if ($page_url == $_SERVER["REQUEST_URI"]) echo ' class="active"';
+							echo '><a href="'.$page_url.'">'.$page_name.'</a></li>';
+						} ?>
 					</ul>
 				</div>
 			</div>
