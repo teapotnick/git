@@ -34,7 +34,7 @@
 
 
 <script type="text/javascript">
-(function ($) {
+jQuery(document).ready(function($){
     $(window).load(function(){
         $('#myModal').modal('show');
     });
