@@ -23,6 +23,7 @@
 		<link href="/css/carousel.css" rel="stylesheet">
 		<link href="/css/customisations.css" rel="stylesheet">
 		<script src="/js/holder.js"></script>
+		
 	</head>
 	<!-- NAVBAR -->
 	<body>

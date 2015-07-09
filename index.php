@@ -163,11 +163,10 @@
     </footer>
 
 </div><!-- /.container -->
-	<img id ="imgFollow" src="https://cdn3.iconfinder.com/data/icons/snack-time/400/snack_time-27-512.png">
+	<img style="position:absolute;" id ="imgFollow" src="https://cdn3.iconfinder.com/data/icons/snack-time/400/snack_time-27-512.png">
 <script>
-$(document).ready(function(){
-});
 $(document).mousemove(function(e){
-$(‘#imgFollow’).offset({left:e.pageX,top:e.pageY+15});   });
+    $("#imgFollow").css({left:e.pageX, top:e.pageY});
+});
 </script>
 <?php include('template-parts/footer.php'); ?>
