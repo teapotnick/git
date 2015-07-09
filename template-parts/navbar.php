@@ -2,7 +2,7 @@
 
 $page_array = array(
 						'Home' => 'index.php',
-						'About' => 'about=us.php',
+						'About' => '/about-us/',
 					);
 
 ?>
