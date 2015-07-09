@@ -24,7 +24,6 @@
 		<link href="/css/customisations.css" rel="stylesheet">
 		<script src="/js/holder.js"></script>
 	</head>
-<!-- NAVBAR
-================================================== -->
+	<!-- NAVBAR -->
 	<body>
 		<?php include('navbar.php'); ?>
