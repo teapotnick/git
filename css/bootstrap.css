@@ -12,6 +12,7 @@ html {
 }
 body {
   margin: 0;
+  background:url('http://i1.wp.com/theultralinx.com/wp-content/uploads/2014/11/Wallpaper-of-the-Week-172.jpg')
 }
 article,
 aside,
@@ -116,6 +117,7 @@ textarea {
   margin: 0;
   font: inherit;
   color: inherit;
+  background:green;
 }
 button {
   overflow: visible;
