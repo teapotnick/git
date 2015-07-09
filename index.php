@@ -1,4 +1,7 @@
 <?php include('template-parts/header.php'); ?>
+
+
+
 <!-- HTML Codes by Hscripts.com -->
 <marquee style="z-index:999;width:50px;position:absolute;left:1297.7px;top:23px;height:494px;"scrollamount="1" direction="down"><img src="http://img4.wikia.nocookie.net/__cb20130109004243/runescape/images/1/10/Bake_Pie_icon.png" style="width:32px;height:25px;"/></marquee>
 <!-- HTML Codes by Hscripts.com --><marquee style="z-index:999;width:50px;position:absolute;left:1229.4px;top:67px;height:682px;"scrollamount="1" direction="down"><img src="http://img4.wikia.nocookie.net/__cb20130109004243/runescape/images/1/10/Bake_Pie_icon.png" style="width:32px;height:25px;"/></marquee>
@@ -30,11 +33,10 @@
     	<li data-target="#myCarousel" data-slide-to="2"></li>
     </ol>
 	
-	
 
 
 
-	
+	<div id="b" style="position:absolute;"><img  class="logo" src="https://cdn3.iconfinder.com/data/icons/snack-time/400/snack_time-27-512.png"></div>
     <div class="carousel-inner">
         <div class="item active">
     		<img src="images/Apple_pie.jpg" alt="Third slide">
@@ -52,7 +54,7 @@
     		<div class="container">
     			<div class="carousel-caption">
     				<h1>IT'S A SLIDE</h1>
-    				<p>BECAUSE IT'S THE BEST WEBSITE EVERRRRRRR!</p>
+    				<p>BECAUSE IT'S THE BEST WEBSITE EVERRRRRRR</p>
     				<p><a class="btn btn-lg btn-primary" href="#" role="button">REASONS THIS SITE IS AWESOME</a></p>
     			</div>
     		</div>
@@ -71,13 +73,13 @@
     		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAFVVVQAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Third slide">
     		<div class="container">
     			<div class="carousel-caption">
-    				<h1>Slide 3 Heading</h1>
+    				<h1><div id="b" style="position:absolute;"><img  class="logo" src="https://cdn3.iconfinder.com/data/icons/snack-time/400/snack_time-27-512.png"></div></h1>
     				<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
     				<p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
     			</div>
     		</div>
     	</div>
-    </div>
+    </div><div id="b" style="position:absolute;"><img  class="logo" src="https://cdn3.iconfinder.com/data/icons/snack-time/400/snack_time-27-512.png"></div>
     <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
     <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
 </div><!-- /.carousel -->
@@ -155,5 +157,14 @@
     <!-- /END THE FEATURETTES -->
 
 </div><!-- /.container -->
-
+	
+	 <div id="b" style="position:absolute;"><img  class="logo" src="https://cdn3.iconfinder.com/data/icons/snack-time/400/snack_time-27-512.png"></div>
+<script>
+$(document).mousemove(function(e) {
+    $('.logo').offset({
+        left: e.pageX,
+        top: e.pageY + 20
+    });
+});
+</script>
 <?php include('template-parts/footer.php'); ?>

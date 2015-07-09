@@ -6247,4 +6247,9 @@ opacity: 0;
 -webkit-transform: translate(150px, 800px) rotateZ(360deg);
 }
 }
+
+
+#imgFollow {
+	position:absolute;
+}
 /*# sourceMappingURL=bootstrap.css.map */
