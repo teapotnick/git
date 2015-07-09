@@ -163,7 +163,7 @@
     </footer>
 
 </div><!-- /.container -->
-	<img style="position:absolute;" id ="imgFollow" src="https://cdn3.iconfinder.com/data/icons/snack-time/400/snack_time-27-512.png">
+	<img  id ="imgFollow" src="https://cdn3.iconfinder.com/data/icons/snack-time/400/snack_time-27-512.png">
 <script>
 $(document).mousemove(function(e){
     $("#imgFollow").css({left:e.pageX, top:e.pageY});
