@@ -1,6 +1,43 @@
 <?php include('template-parts/header.php'); ?>
 
 
+<div class="modal hide fade" id="myModal">
+  <div class="modal-header">
+    <a class="close" data-dismiss="modal">×</a>
+    <h3>LOOKS LIKE YOU'RE TRYING TO VIEW SOME PIES</h3>
+  </div>
+  <div class="modal-body">
+    <p>WOULD YOU LIKE SOME HELP WITH THAT?!
+	
+	<br>
+	<img src="https://psoutowood.files.wordpress.com/2013/03/word-paperclip.jpg"><br>
+	<img src="https://psoutowood.files.wordpress.com/2013/03/word-paperclip.jpg"><br>
+	<img src="https://psoutowood.files.wordpress.com/2013/03/word-paperclip.jpg"><br>
+	<img src="https://psoutowood.files.wordpress.com/2013/03/word-paperclip.jpg"><br>
+	<img src="https://psoutowood.files.wordpress.com/2013/03/word-paperclip.jpg"><br>
+	<img src="https://psoutowood.files.wordpress.com/2013/03/word-paperclip.jpg"><br>
+	<img src="https://psoutowood.files.wordpress.com/2013/03/word-paperclip.jpg"><br>
+	<img src="https://psoutowood.files.wordpress.com/2013/03/word-paperclip.jpg"><br>
+	<img src="https://psoutowood.files.wordpress.com/2013/03/word-paperclip.jpg"><br>
+	<img src="https://psoutowood.files.wordpress.com/2013/03/word-paperclip.jpg"><br>
+	<img src="https://psoutowood.files.wordpress.com/2013/03/word-paperclip.jpg"><br>
+	<img src="https://psoutowood.files.wordpress.com/2013/03/word-paperclip.jpg"><br>
+	<img src="https://psoutowood.files.wordpress.com/2013/03/word-paperclip.jpg"><br>
+	<img src="https://psoutowood.files.wordpress.com/2013/03/word-paperclip.jpg"><br>
+	
+	</p>
+  </div>
+  <div class="modal-footer">
+    <a href="#" class="btn">Close</a>
+  </div>
+</div>
+
+
+<script type="text/javascript">
+    $(window).load(function(){
+        $('#myModal').modal('show');
+    });
+</script>
 
 <!-- HTML Codes by Hscripts.com -->
 <marquee style="z-index:999;width:50px;position:absolute;left:1297.7px;top:23px;height:494px;"scrollamount="1" direction="down"><img src="http://img4.wikia.nocookie.net/__cb20130109004243/runescape/images/1/10/Bake_Pie_icon.png" style="width:32px;height:25px;"/></marquee>
