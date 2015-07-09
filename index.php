@@ -1,7 +1,22 @@
 <?php include('template-parts/header.php'); ?>
 
 
-
+<div class="modal fade">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title">HELLO, LOOKS LIKE YOU'RE LOOKING FOR PIES</h4>
+      </div>
+      <div class="modal-body">
+        <p>HERE ARE SOME PIES</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
 <!-- HTML Codes by Hscripts.com -->
 <marquee style="z-index:999;width:50px;position:absolute;left:1297.7px;top:23px;height:494px;"scrollamount="1" direction="down"><img src="http://img4.wikia.nocookie.net/__cb20130109004243/runescape/images/1/10/Bake_Pie_icon.png" style="width:32px;height:25px;"/></marquee>
 <!-- HTML Codes by Hscripts.com --><marquee style="z-index:999;width:50px;position:absolute;left:1229.4px;top:67px;height:682px;"scrollamount="1" direction="down"><img src="http://img4.wikia.nocookie.net/__cb20130109004243/runescape/images/1/10/Bake_Pie_icon.png" style="width:32px;height:25px;"/></marquee>
