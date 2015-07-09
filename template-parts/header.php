@@ -24,19 +24,17 @@
 		<link href="/css/customisations.css" rel="stylesheet">
 		<script src="/js/holder.js"></script>
 		<script type="text/javascript">
-
-$(document).ready(function() {
-    
-    function beeLeft() {
-        $("#b").animate({left: "-=300"}, 1500, "swing", beeRight);
-    }
-    function beeRight() {
-        $("#b").animate({left: "+=300"}, 1500, "swing", beeLeft);
-    }
-    
-    beeRight();
-});
-</script>
+		jQuery(document).ready(function($){
+			function beeLeft() {
+			    $("#b").animate({left: "-=300"}, 1500, "swing", beeRight);
+			}
+			function beeRight() {
+			    $("#b").animate({left: "+=300"}, 1500, "swing", beeLeft);
+			}
+			
+			beeRight();
+		});
+		</script>
 	</head>
 	<!-- NAVBAR -->
 	<body>
