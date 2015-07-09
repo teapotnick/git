@@ -9,11 +9,11 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<a class="navbar-brand" href="#">Project name</a>
+					<a class="navbar-brand" href="/">All Pie Project</a>
 				</div>
 				<div class="navbar-collapse collapse">
 					<ul class="nav navbar-nav">
-						<li class="active"><a href="">Home</a></li>
+						<li class="active"><a href="/">Home</a></li>
 						<li><a href="about.php">About</a></li>
 					</ul>
 				</div>
