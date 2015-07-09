@@ -7,7 +7,7 @@
 		<p>This is a website all about pie.</p>
 		
 		<h2>Do you like pie?</h2>
-		<p><a href="contact.php">Tell us all about it</a></p>
+		<p><a href="/contact.php">Tell us all about it</a></p>
 	</div>
 </div><!-- /.container -->
 

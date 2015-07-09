@@ -1,7 +1,7 @@
 <?php
 
 $page_array = array(
-						'Home' => 'index.php',
+						'Home' => '/',
 						'About' => '/about-us/',
 					);
 
