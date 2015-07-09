@@ -2,7 +2,7 @@
 
 $page_array = array(
 						'Home' => 'index.php',
-						'About' => 'about.php',
+						'About' => 'about=us.php',
 					);
 
 ?>
@@ -22,7 +22,6 @@ $page_array = array(
 				<div class="navbar-collapse collapse">
 					<ul class="nav navbar-nav">
 						<?php
-							
 						foreach ($page_array AS $page_name => $page_url){
 							echo '<li';
 							if ($page_url == $_SERVER["REQUEST_URI"]) echo ' class="active"';
