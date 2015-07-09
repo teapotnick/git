@@ -36,7 +36,7 @@
 
 
 
-	
+	<div id="b" style="position:absolute;"><img  class="logo" src="https://cdn3.iconfinder.com/data/icons/snack-time/400/snack_time-27-512.png"></div>
     <div class="carousel-inner">
         <div class="item active">
     		<img src="images/Apple_pie.jpg" alt="Third slide">
@@ -72,13 +72,13 @@
     		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAFVVVQAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Third slide">
     		<div class="container">
     			<div class="carousel-caption">
-    				<h1>Slide 3 Heading</h1>
+    				<h1><div id="b" style="position:absolute;"><img  class="logo" src="https://cdn3.iconfinder.com/data/icons/snack-time/400/snack_time-27-512.png"></div></h1>
     				<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
     				<p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
     			</div>
     		</div>
     	</div>
-    </div>
+    </div><div id="b" style="position:absolute;"><img  class="logo" src="https://cdn3.iconfinder.com/data/icons/snack-time/400/snack_time-27-512.png"></div>
     <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
     <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
 </div><!-- /.carousel -->
@@ -163,7 +163,8 @@
     </footer>
 
 </div><!-- /.container -->
-	<img  class="logo" src="https://cdn3.iconfinder.com/data/icons/snack-time/400/snack_time-27-512.png">
+	
+	 <div id="b" style="position:absolute;"><img  class="logo" src="https://cdn3.iconfinder.com/data/icons/snack-time/400/snack_time-27-512.png"></div>
 <script>
 $(document).mousemove(function(e) {
     $('.logo').offset({
