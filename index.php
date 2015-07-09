@@ -19,8 +19,7 @@
 <marquee style="z-index:0;width:50px;position:absolute;left:136.60000000000048px;top:62px;height:57px;"scrollamount="6" direction="down"><img src="http://img4.wikia.nocookie.net/__cb20130109004243/runescape/images/1/10/Bake_Pie_icon.png" style="width:32px;height:25px;"/></marquee>
 <marquee style="z-index:0;width:50px;position:absolute;left:68.30000000000048px;top:99px;height:696px;"direction="down"><img src="http://img4.wikia.nocookie.net/__cb20130109004243/runescape/images/1/10/Bake_Pie_icon.png" style="width:32px;height:25px;"/></marquee>
 <marquee style="z-index:0;width:50px;position:absolute;left:4.831690603168681e-13px;top:8px;height:270px;"scrollamount="1" direction="down"><img src="http://img4.wikia.nocookie.net/__cb20130109004243/runescape/images/1/10/Bake_Pie_icon.png" style="width:32px;height:25px;"/></marquee>
-<!-- Carousel
-================================================== -->
+<!-- Carousel -->
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
     <ol class="carousel-indicators">
@@ -82,8 +81,7 @@
 
 
 
-<!-- Marketing messaging and featurettes
-================================================== -->
+<!-- Marketing messaging and featurettes -->
 <!-- Wrap the rest of the page in another container to center all the content. -->
 
 <div class="container marketing">
