@@ -1,5 +1,4 @@
 <?php
-// XXX
 include('template-parts/header.php'); ?>
 
 <!-- Carousel
