@@ -44,6 +44,22 @@ include('template-parts/header.php'); ?>
     			</div>
     		</div>
     	</div>
+		<div class="item">
+    		<img src="" alt="Third slide">
+    		<div class="container">
+    			<div class="carousel-caption">
+					<img src="/images/hamster1.gif" class="hamster" alt="Third slide">
+					<img src="/images/hamster2.gif" class="hamster" alt="Third slide">
+					<img src="/images/hamster3.gif" class="hamster" alt="Third slide">
+					<img src="/images/hamster4.gif" class="hamster" alt="Third slide">
+					<img src="/images/hamster5.gif" class="hamster" alt="Third slide">
+					<br />
+    				<h1>Dancing Hamsters</h1>
+    				<p>Once considered a staple character of the early days of the internet, it's been long enough that these furry rodents now count as "retro" and they are back in season. People who purchased this item also bought The Dancing Baby.</p>
+    				<p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
+    			</div>
+    		</div>
+    	</div>
     </div>
     <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
     <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
