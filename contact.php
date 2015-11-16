@@ -4,6 +4,15 @@ include('template-parts/header.php');
 
 // contact form goes here
 ?>
-	<p>get in touch with Santa</p>
-
+<div class="form contact-form">
+	<h2>Get in touch with Santa</h2>
+	<form action="#" method="POST">
+		<div class="field-wrapper">
+			<input type="text" placeholder="your name" />
+		</div>
+		<div class="button-wrapper">
+			<button type="submit" value="Send your message to Santa" />
+		</div>x
+	</form>
+</div>
 <?php include('template-parts/footer.php'); ?>
