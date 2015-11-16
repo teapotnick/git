@@ -12,6 +12,7 @@ include('template-parts/header.php'); ?>
     	<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
     	<li data-target="#myCarousel" data-slide-to="1"></li>
     	<li data-target="#myCarousel" data-slide-to="2"></li>
+    	<li data-target="#myCarousel" data-slide-to="3"></li>
     </ol>
     <div class="carousel-inner">
     	<div class="item active">
@@ -40,6 +41,22 @@ include('template-parts/header.php'); ?>
     			<div class="carousel-caption">
     				<h1>Evil Lair</h1>
     				<p>Alternatively, if a robot and PS4 simply isn't enough, you can purchase a large space of land in a remote off shore location and build your child an evil lair. This will allow them to plan their attacks in private, and give them the space they need to design and build future evil devices.</p>
+    				<p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
+    			</div>
+    		</div>
+    	</div>
+		<div class="item">
+    		<img src="/images/grass.jpg" alt="Fourth slide">
+    		<div class="container">
+    			<div class="carousel-caption">
+					<img src="/images/hamster1.gif" class="hamster" alt="Third slide">
+					<img src="/images/hamster2.gif" class="hamster" alt="Third slide">
+					<img src="/images/hamster3.gif" class="hamster" alt="Third slide">
+					<img src="/images/hamster4.gif" class="hamster" alt="Third slide">
+					<img src="/images/hamster5.gif" class="hamster" alt="Third slide">
+					<br />
+    				<h1>Dancing Hamsters</h1>
+    				<p>Once considered a staple character of the early days of the internet, it's been long enough that these furry rodents now count as "retro" and they are back in season. People who purchased this item also bought The Dancing Baby.</p>
     				<p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
     			</div>
     		</div>
