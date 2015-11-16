@@ -88,7 +88,7 @@ include('template-parts/header.php'); ?>
     		<p class="lead">Look it's an image of... the corner of a fireplace.  But this is the first google image search result for "Christmas" for an image of this size.  At least there's a reindeer in there.</p>
     	</div>
     	<div class="col-md-5">
-    		<img class="featurette-image img-responsive" data-src="images/image1.jpg alt="Generic placeholder image">
+    		<img class="featurette-image img-responsive" src="images/image1.jpg alt="Generic placeholder image">
     	</div>
     </div>
 
@@ -96,7 +96,7 @@ include('template-parts/header.php'); ?>
 
     <div class="row featurette">
     	<div class="col-md-5">
-    		<img class="featurette-image img-responsive" data-src="images/image2.jpg" alt="Generic placeholder image">
+    		<img class="featurette-image img-responsive" src="images/image2.jpg" alt="Generic placeholder image">
     	</div>
     	<div class="col-md-7">
     		<h2 class="featurette-heading">This is the next most Christmasy image on Google <span class="text-muted">See for yourself.</span></h2>
@@ -112,7 +112,7 @@ include('template-parts/header.php'); ?>
     		<p class="lead">A very seasonal tree.</p>
     	</div>
     	<div class="col-md-5">
-    		<img class="featurette-image img-responsive" data-src="images/image3.jpg" alt="Generic placeholder image">
+    		<img class="featurette-image img-responsive" src="images/image3.jpg" alt="Generic placeholder image">
     	</div>
     </div>
 
