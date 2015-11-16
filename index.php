@@ -1,8 +1,10 @@
 <?php
+
+echo '<link rel="stylesheet" type="text/css" href="css/SnowingEffect.css">';
 // YYY
 include('template-parts/header.php'); ?>
 
-<!-- Carousel
+  <!-- Carousel
 ================================================== -->
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
@@ -13,7 +15,7 @@ include('template-parts/header.php'); ?>
     </ol>
     <div class="carousel-inner">
     	<div class="item active">
-    		<img src="/images/ps4.png" alt="First slide">
+    		<img src="/images/ps4_long.jpg" alt="First slide">
     		<div class="container">
     			<div class="carousel-caption">
     				<h1>PS4</h1>
