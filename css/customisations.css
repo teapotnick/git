@@ -7,3 +7,10 @@ body {}
 	height: 100%;
 	background: url('../images/santa.jpg') 0 0 no-repeat scroll;
 }
+
+.contact-form form {
+	width: 50%;
+	position: relative;
+	top: 30%;
+	margin: 0 auto;
+}
