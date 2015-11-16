@@ -25,11 +25,11 @@ include('template-parts/header.php'); ?>
     		</div>
     	</div>
     	<div class="item">
-    		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAGZmZgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Second slide">
+    		<img src="/images/robot.png" alt="Second slide">
     		<div class="container">
     			<div class="carousel-caption">
-    				<h1>Slide 2 Heading</h1>
-    				<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+    				<h1>Giant Killer Robot</h1>
+    				<p>Alternatively you could buy your child a giant killer robot that is capably of detroying the human race. These can come in both remote control and mecha forms, with the mecha form allowing the child to augment their own body rather than control the device from a remote location.</p>
     				<p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
     			</div>
     		</div>
@@ -90,7 +90,7 @@ include('template-parts/header.php'); ?>
     		<p class="lead">Look it's an image of... the corner of a fireplace.  But this is the first google image search result for "Christmas" for an image of this size.  At least there's a reindeer in there.</p>
     	</div>
     	<div class="col-md-5">
-    		<img class="featurette-image img-responsive" src="images/image1.jpg alt="Generic placeholder image">
+    		<img class="featurette-image img-responsive" src="images/image1.jpg" alt="Generic placeholder image">
     	</div>
     </div>
 
@@ -119,6 +119,16 @@ include('template-parts/header.php'); ?>
     </div>
 
     <hr class="featurette-divider">
+                                
+    <div class="row featurette">
+    	<div class="col-md-7">  
+    		<h2 class="featurette-heading">Sweden's Donald Duck Christmas Eve</h2>
+    		<p class="lead">In Sweden, on Christmas Eve, about half of the population settles down in front of the TV to watch a Donald Duck special called Kalle Anka which, along with its characters and cartoons, are ingrained in Swedish pop culture as a Christmas tradition.</p>
+    	</div>
+    	<div class="col-md-5">
+    		<img class="featurette-image img-responsive" src="images/kalle-anka.jpg" alt="Kalle Anke">
+    	</div>
+    </div>
 
     <!-- /END THE FEATURETTES -->
 
