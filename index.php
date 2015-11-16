@@ -90,7 +90,7 @@ include('template-parts/header.php'); ?>
     		<p class="lead">Look it's an image of... the corner of a fireplace.  But this is the first google image search result for "Christmas" for an image of this size.  At least there's a reindeer in there.</p>
     	</div>
     	<div class="col-md-5">
-    		<img class="featurette-image img-responsive" src="images/image1.jpg alt="Generic placeholder image">
+    		<img class="featurette-image img-responsive" src="images/image1.jpg" alt="Generic placeholder image">
     	</div>
     </div>
 
