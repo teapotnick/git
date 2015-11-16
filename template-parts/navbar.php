@@ -28,6 +28,7 @@
 								<li><a href="#">One more separated link</a></li>
 							</ul>
 						</li>
+						<li><a href="order.php">Order</a></li>
 					</ul>
 				</div>
 			</div>
