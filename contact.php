@@ -6,6 +6,7 @@
 <br>
 <br>
 <br>
+<br>
 	<h2>Get in touch with Santa</h2>
 	<form action="#" method="POST">
 		<div class="field-wrapper">
