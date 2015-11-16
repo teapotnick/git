@@ -92,6 +92,9 @@ include('template-parts/header.php'); ?>
     <div class="row featurette">
     	<div class="col-md-7">
     		<h2 class="featurette-heading">This is a very Christmasy image. <span class="text-muted">It'll blow your mind.</span></h2>
+        <p>
+          Sorry, didn't blow my mind, but certainly feeling more christmassy.....BAH HUMBG....see
+        </p>
     		<p class="lead">Look it's an image of... the corner of a fireplace.  But this is the first google image search result for "Christmas" for an image of this size.  At least there's a reindeer in there.</p>
     	</div>
     	<div class="col-md-5">
@@ -107,7 +110,7 @@ include('template-parts/header.php'); ?>
     	</div>
     	<div class="col-md-7">
     		<h2 class="featurette-heading">This is the next most Christmasy image on Google <span class="text-muted">See for yourself.</span></h2>
-    		<p class="lead">If you reckognise these guys you may want to keep it yo yourself</p>
+    		<p class="lead">If you recognise these guys you may want to keep it yo yourself</p>
     	</div>
     </div>
 
