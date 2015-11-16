@@ -7,6 +7,7 @@ include('template-parts/header.php'); ?>
   <!-- Carousel
 ================================================== -->
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
+
     <!-- Indicators -->
     <ol class="carousel-indicators">
     	<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -57,7 +58,6 @@ include('template-parts/header.php'); ?>
 					<br />
     				<h1>Dancing Hamsters</h1>
     				<p>Once considered a staple character of the early days of the internet, it's been long enough that these furry rodents now count as "retro" and they are back in season. People who purchased this item also bought The Dancing Baby.</p>
-    				<p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
     			</div>
     		</div>
     	</div>
@@ -151,6 +151,8 @@ include('template-parts/header.php'); ?>
     		<img class="featurette-image img-responsive" src="images/kalle-anka.jpg" alt="Kalle Anke">
     	</div>
     </div>
+
+    <hr class="featurette-divider">
                                 
     <div class="row featurette">
     	<div class="col-md-5">
@@ -159,6 +161,18 @@ include('template-parts/header.php'); ?>
     	<div class="col-md-7">  
     		<h2 class="featurette-heading">Merry Christmas Paul</h2>
     		<p class="lead">Paul McCartney earns $400,000 a year off his Christmas song, which is widely regarded as the worst song he ever recorded.</p>
+    	</div>
+    </div>
+
+    <hr class="featurette-divider">
+                                
+    <div class="row featurette">
+    	<div class="col-md-7">  
+    		<h2 class="featurette-heading">Greek Christmas</h2>
+    		<p class="lead">We frequently abbreviate Christmas as X-mas because of ancient tradition. X is the Greek letter "chi" which is an abbreviation for the word "Christ" in Greek.</p>
+    	</div>
+    	<div class="col-md-5">
+    		<img class="featurette-image img-responsive" src="images/chi.jpg" alt="Kalle Anke">
     	</div>
     </div>
 
