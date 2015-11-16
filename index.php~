@@ -13,11 +13,11 @@ include('template-parts/header.php'); ?>
     </ol>
     <div class="carousel-inner">
     	<div class="item active">
-    		<img src="/images/ps4_long.png" alt="First slide">
+    		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="First slide">
     		<div class="container">
     			<div class="carousel-caption">
-    				<h1>PS4</h1>
-    				<p>The Sony Playstation 4 is a quint essential Christmas present to get your kids if you haven't done so already. They'll probably want Metal Gear Solid 5 and the new Fallout.</p>
+    				<h1>Slide 1 Heading</h1>
+    				<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
     				<p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
     			</div>
     		</div>
@@ -80,15 +80,15 @@ include('template-parts/header.php'); ?>
 
     <!-- START THE FEATURETTES -->
 
-       <hr class="featurette-divider">
+    <hr class="featurette-divider">
 
     <div class="row featurette">
     	<div class="col-md-7">
-    		<h2 class="featurette-heading">This is a very Christmasy image. <span class="text-muted">It'll blow your mind.</span></h2>
-    		<p class="lead">Look it's an image of... the corner of a fireplace.  But this is the first google image search result for "Christmas" for an image of this size.  At least there's a reindeer in there.</p>
+    		<h2 class="featurette-heading">First featurette heading. <span class="text-muted">It'll blow your mind.</span></h2>
+    		<p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
     	</div>
     	<div class="col-md-5">
-    		<img class="featurette-image img-responsive" data-src="images/image1.jpg alt="Generic placeholder image">
+    		<img class="featurette-image img-responsive" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
     	</div>
     </div>
 
@@ -96,11 +96,11 @@ include('template-parts/header.php'); ?>
 
     <div class="row featurette">
     	<div class="col-md-5">
-    		<img class="featurette-image img-responsive" data-src="images/image2.jpg" alt="Generic placeholder image">
+    		<img class="featurette-image img-responsive" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
     	</div>
     	<div class="col-md-7">
-    		<h2 class="featurette-heading">This is the next most Christmasy image on Google <span class="text-muted">See for yourself.</span></h2>
-    		<p class="lead">If you reckognise these guys you may want to keep it yo yourself</p>
+    		<h2 class="featurette-heading">Oh yeah, it's that good. <span class="text-muted">See for yourself.</span></h2>
+    		<p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
     	</div>
     </div>
 
@@ -108,11 +108,11 @@ include('template-parts/header.php'); ?>
 
     <div class="row featurette">
     	<div class="col-md-7">
-    		<h2 class="featurette-heading">And lastly, this one.</h2>
-    		<p class="lead">A very seasonal tree.</p>
+    		<h2 class="featurette-heading">And lastly, this one. <span class="text-muted">Checkmate.</span></h2>
+    		<p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
     	</div>
     	<div class="col-md-5">
-    		<img class="featurette-image img-responsive" data-src="images/image3.jpg" alt="Generic placeholder image">
+    		<img class="featurette-image img-responsive" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
     	</div>
     </div>
 
