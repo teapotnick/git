@@ -1,4 +1,4 @@
-<div class="page_order">
+<div class="page_order page_standard">
 	<?php include('template-parts/header.php'); ?>
 	<div class="container">
 		<div class="row">
