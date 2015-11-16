@@ -17,6 +17,7 @@
 						<li><a href="about.php">About</a></li>
 						<li><a href="contact.php">Contact</a></li>
 						<li><a href="order.php">Order</a></li>
+						<li><a href="special.php">Todays Special Offer</a></li>
 					</ul>
 				</div>
 			</div>
