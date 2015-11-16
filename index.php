@@ -63,7 +63,7 @@ include('template-parts/header.php'); ?>
     		<img class="img-circle" src="images/past.jpg" alt="PAST" style="width: 140px; height: 140px;">
     		<h2>Christmas Past</h2>
     		<p>Some muppet, on a guilt trip.</p>
-    		<p><a class="btn btn-default" href="javascript:clickFirstButton" role="button" style="background-color:#2fa9de" >View details &raquo;</a></p>
+    		<p><a class="btn btn-default" href="javascript:clickFirstButton()" role="button" style="background-color:#2fa9de" >View details &raquo;</a></p>
     	</div><!-- /.col-lg-4 -->
     	<div class="col-lg-4">
     		<img class="img-circle" src="images/present.jpg" alt="PRESENT" style="width: 140px; height: 140px;">
