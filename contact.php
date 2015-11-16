@@ -11,8 +11,8 @@ include('template-parts/header.php');
 			<input type="text" placeholder="your name" />
 		</div>
 		<div class="button-wrapper">
-			<button type="submit" value="Send your message to Santa" />
-		</div>x
+			<button type="submit">Send your message to Santa</button>
+		</div>
 	</form>
 </div>
 <?php include('template-parts/footer.php'); ?>
