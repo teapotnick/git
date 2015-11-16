@@ -13,7 +13,7 @@ include('template-parts/header.php'); ?>
     </ol>
     <div class="carousel-inner">
     	<div class="item active">
-    		<img src="/images/ps4_long.png" alt="First slide">
+    		<img src="/images/ps4_long.jpg" alt="First slide">
     		<div class="container">
     			<div class="carousel-caption">
     				<h1>PS4</h1>
