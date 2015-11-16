@@ -132,6 +132,16 @@ include('template-parts/header.php'); ?>
     		<img class="featurette-image img-responsive" src="images/kalle-anka.jpg" alt="Kalle Anke">
     	</div>
     </div>
+                                
+    <div class="row featurette">
+    	<div class="col-md-5">
+    		<img class="featurette-image img-responsive" src="images/62331wct.jpg" alt="Kalle Anke">
+    	</div>
+    	<div class="col-md-7">  
+    		<h2 class="featurette-heading">Merry Christmas Paul</h2>
+    		<p class="lead">Paul McCartney earns $400,000 a year off his Christmas song, which is widely regarded as the worst song he ever recorded.</p>
+    	</div>
+    </div>
 
     <!-- /END THE FEATURETTES -->
 
