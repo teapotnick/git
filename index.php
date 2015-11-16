@@ -57,7 +57,6 @@ include('template-parts/header.php'); ?>
 					<br />
     				<h1>Dancing Hamsters</h1>
     				<p>Once considered a staple character of the early days of the internet, it's been long enough that these furry rodents now count as "retro" and they are back in season. People who purchased this item also bought The Dancing Baby.</p>
-    				<p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
     			</div>
     		</div>
     	</div>
