@@ -35,11 +35,11 @@ include('template-parts/header.php'); ?>
     		</div>
     	</div>
     	<div class="item">
-    		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAFVVVQAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Third slide">
+    		<img src="/images/lair.jpg" alt="Third slide">
     		<div class="container">
     			<div class="carousel-caption">
-    				<h1>Slide 3 Heading</h1>
-    				<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+    				<h1>Evil Lair</h1>
+    				<p>Alternatively, if a robot and PS4 simply isn't enough, you can purchase a large space of land in a remote off shore location and build your child an evil lair. This will allow them to plan their attacks in private, and give them the space they need to design and build future evil devices.</p>
     				<p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
     			</div>
     		</div>
@@ -62,7 +62,7 @@ include('template-parts/header.php'); ?>
     	<div class="col-lg-4">
     		<img class="img-circle" src="images/past.jpg" alt="PAST" style="width: 140px; height: 140px;">
     		<h2>Christmas Past</h2>
-    		<p>Some muppet</p>
+    		<p>Some muppet, on a guilt trip.</p>
     		<p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
     	</div><!-- /.col-lg-4 -->
     	<div class="col-lg-4">
