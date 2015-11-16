@@ -172,7 +172,7 @@ include('template-parts/header.php'); ?>
     		<p class="lead">We frequently abbreviate Christmas as X-mas because of ancient tradition. X is the Greek letter "chi" which is an abbreviation for the word "Christ" in Greek.</p>
     	</div>
     	<div class="col-md-5">
-    		<img class="featurette-image img-responsive" src="images/kalle-anka.jpg" alt="Kalle Anke">
+    		<img class="featurette-image img-responsive" src="images/chi.jpg" alt="Kalle Anke">
     	</div>
     </div>
 
