@@ -1,5 +1,7 @@
 /* put your page styling customisations here! */
-body {}
+body {
+	padding-bottom:0px;
+}
 
 .contact-form {
 	position: absolute;
