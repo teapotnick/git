@@ -1,2 +1,6 @@
 /* put your page styling customisations here! */
 body {}
+
+.contact-form {
+	background: url('../images/santa.jpg') 0 0 no-repeat scroll;
+}

@@ -1,9 +1,4 @@
-<?php
-// YYY
-include('template-parts/header.php');
-
-// contact form goes here
-?>
+<?php include('template-parts/header.php'); ?>
 <div class="form contact-form">
 	<h2>Get in touch with Santa</h2>
 	<form action="#" method="POST">
