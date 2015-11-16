@@ -1,8 +1,10 @@
 <?php
+
+echo '<link rel="stylesheet" type="text/css" href="css/SnowingEffect.css">';
 // YYY
 include('template-parts/header.php'); ?>
 
-<!-- Carousel
+  <!-- Carousel
 ================================================== -->
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
