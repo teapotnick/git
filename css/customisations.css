@@ -4,3 +4,18 @@ body {}
 .contact-form {
 	background: url('../images/santa.jpg') 0 0 no-repeat scroll;
 }
+img.product {
+	height:150px;
+}
+.page_order .navbar-wrapper {
+	position:relative;
+	padding-top: 20px;
+	margin-top: 0px;
+}
+
+.page_order .row {
+	margin-bottom: 16px;
+}
+.page_order {
+	background-image:url("/images/snowtile.jpg");
+}
