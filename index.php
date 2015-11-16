@@ -15,7 +15,7 @@ include('template-parts/header.php'); ?>
     </ol>
     <div class="carousel-inner">
     	<div class="item active">
-    		<img src="/images/ps4_long.png" alt="First slide">
+    		<img src="/images/ps4_long.jpg" alt="First slide">
     		<div class="container">
     			<div class="carousel-caption">
     				<h1>PS4</h1>
@@ -25,11 +25,11 @@ include('template-parts/header.php'); ?>
     		</div>
     	</div>
     	<div class="item">
-    		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAGZmZgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Second slide">
+    		<img src="/images/robot.png" alt="Second slide">
     		<div class="container">
     			<div class="carousel-caption">
-    				<h1>Slide 2 Heading</h1>
-    				<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+    				<h1>Giant Killer Robot</h1>
+    				<p>Alternatively you could buy your child a giant killer robot that is capably of detroying the human race. These can come in both remote control and mecha forms, with the mecha form allowing the child to augment their own body rather than control the device from a remote location.</p>
     				<p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
     			</div>
     		</div>
@@ -60,21 +60,21 @@ include('template-parts/header.php'); ?>
     <!-- Three columns of text below the carousel -->
     <div class="row">
     	<div class="col-lg-4">
-    		<img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" style="width: 140px; height: 140px;">
-    		<h2>Heading</h2>
-    		<p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
+    		<img class="img-circle" src="images/past.jpg" alt="PAST" style="width: 140px; height: 140px;">
+    		<h2>Christmas Past</h2>
+    		<p>Some muppet</p>
     		<p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
     	</div><!-- /.col-lg-4 -->
     	<div class="col-lg-4">
-    		<img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" style="width: 140px; height: 140px;">
-    		<h2>Heading</h2>
-    		<p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
+    		<img class="img-circle" src="images/present.jpg" alt="PRESENT" style="width: 140px; height: 140px;">
+    		<h2>Christmas Present</h2>
+    		<p>Some fat guy in need of a shave.</p>
     		<p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
     	</div><!-- /.col-lg-4 -->
     	<div class="col-lg-4">
-    		<img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" style="width: 140px; height: 140px;">
-    		<h2>Heading</h2>
-    		<p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+    		<img class="img-circle" src="images/future.jpg" alt="FUTURE" style="width: 140px; height: 140px;">
+    		<h2>Christmas Future</h2>
+    		<p>Judgemental prescient grim reaper style figure</p>
     		<p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
     	</div><!-- /.col-lg-4 -->
     </div><!-- /.row -->
@@ -90,7 +90,7 @@ include('template-parts/header.php'); ?>
     		<p class="lead">Look it's an image of... the corner of a fireplace.  But this is the first google image search result for "Christmas" for an image of this size.  At least there's a reindeer in there.</p>
     	</div>
     	<div class="col-md-5">
-    		<img class="featurette-image img-responsive" data-src="images/image1.jpg alt="Generic placeholder image">
+    		<img class="featurette-image img-responsive" src="images/image1.jpg" alt="Generic placeholder image">
     	</div>
     </div>
 
@@ -98,7 +98,7 @@ include('template-parts/header.php'); ?>
 
     <div class="row featurette">
     	<div class="col-md-5">
-    		<img class="featurette-image img-responsive" data-src="images/image2.jpg" alt="Generic placeholder image">
+    		<img class="featurette-image img-responsive" src="images/image2.jpg" alt="Generic placeholder image">
     	</div>
     	<div class="col-md-7">
     		<h2 class="featurette-heading">This is the next most Christmasy image on Google <span class="text-muted">See for yourself.</span></h2>
@@ -114,11 +114,21 @@ include('template-parts/header.php'); ?>
     		<p class="lead">A very seasonal tree.</p>
     	</div>
     	<div class="col-md-5">
-    		<img class="featurette-image img-responsive" data-src="images/image3.jpg" alt="Generic placeholder image">
+    		<img class="featurette-image img-responsive" src="images/image3.jpg" alt="Generic placeholder image">
     	</div>
     </div>
 
     <hr class="featurette-divider">
+                                
+    <div class="row featurette">
+    	<div class="col-md-7">  
+    		<h2 class="featurette-heading">Sweden's Donald Duck Christmas Eve</h2>
+    		<p class="lead">In Sweden, on Christmas Eve, about half of the population settles down in front of the TV to watch a Donald Duck special called Kalle Anka which, along with its characters and cartoons, are ingrained in Swedish pop culture as a Christmas tradition.</p>
+    	</div>
+    	<div class="col-md-5">
+    		<img class="featurette-image img-responsive" src="images/kalle-anka.jpg" alt="Kalle Anke">
+    	</div>
+    </div>
 
     <!-- /END THE FEATURETTES -->
 
