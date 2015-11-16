@@ -75,7 +75,7 @@ include('template-parts/header.php'); ?>
 <div class="container marketing">
 
     <!-- Three columns of text below the carousel -->
-    <div class="row">
+    <div class="row" style="border-bottom:1px dashed Red">
     	<div class="col-lg-4">
     		<img class="img-circle" src="images/past.jpg" alt="PAST" style="width: 140px; height: 140px;">
     		<h2>Christmas Past</h2>
