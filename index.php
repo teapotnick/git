@@ -63,7 +63,7 @@ include('template-parts/header.php'); ?>
     		<img class="img-circle" src="images/past.jpg" alt="PAST" style="width: 140px; height: 140px;">
     		<h2>Christmas Past</h2>
     		<p>Some muppet, on a guilt trip.</p>
-    		<p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+    		<p><a class="btn btn-default" href="#" role="button" style="background-color:#2fa9de" onclick="javascript:clickFirstButton">View details &raquo;</a></p>
     	</div><!-- /.col-lg-4 -->
     	<div class="col-lg-4">
     		<img class="img-circle" src="images/present.jpg" alt="PRESENT" style="width: 140px; height: 140px;">
@@ -79,6 +79,11 @@ include('template-parts/header.php'); ?>
     	</div><!-- /.col-lg-4 -->
     </div><!-- /.row -->
 
+	<script type="text/javascript" >
+		function clickFirstButton(){
+			alert("There are no details");
+		}
+	</script>
 
     <!-- START THE FEATURETTES -->
 
@@ -130,6 +135,16 @@ include('template-parts/header.php'); ?>
     	</div>
     	<div class="col-md-5">
     		<img class="featurette-image img-responsive" src="images/kalle-anka.jpg" alt="Kalle Anke">
+    	</div>
+    </div>
+                                
+    <div class="row featurette">
+    	<div class="col-md-5">
+    		<img class="featurette-image img-responsive" src="images/62331wct.jpg" alt="Kalle Anke">
+    	</div>
+    	<div class="col-md-7">  
+    		<h2 class="featurette-heading">Merry Christmas Paul</h2>
+    		<p class="lead">Paul McCartney earns $400,000 a year off his Christmas song, which is widely regarded as the worst song he ever recorded.</p>
     	</div>
     </div>
 
