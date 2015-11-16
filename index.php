@@ -25,11 +25,11 @@ include('template-parts/header.php'); ?>
     		</div>
     	</div>
     	<div class="item">
-    		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAGZmZgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Second slide">
+    		<img src="/images/robot.png" alt="Second slide">
     		<div class="container">
     			<div class="carousel-caption">
-    				<h1>Slide 2 Heading</h1>
-    				<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+    				<h1>Giant Killer Robot</h1>
+    				<p>Alternatively you could buy your child a giant killer robot that is capably of detroying the human race. These can come in both remote control and mecha forms, with the mecha form allowing the child to augment their own body rather than control the device from a remote location.</p>
     				<p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
     			</div>
     		</div>
