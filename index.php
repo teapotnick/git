@@ -151,6 +151,8 @@ include('template-parts/header.php'); ?>
     		<img class="featurette-image img-responsive" src="images/kalle-anka.jpg" alt="Kalle Anke">
     	</div>
     </div>
+
+    <hr class="featurette-divider">
                                 
     <div class="row featurette">
     	<div class="col-md-5">
@@ -159,6 +161,18 @@ include('template-parts/header.php'); ?>
     	<div class="col-md-7">  
     		<h2 class="featurette-heading">Merry Christmas Paul</h2>
     		<p class="lead">Paul McCartney earns $400,000 a year off his Christmas song, which is widely regarded as the worst song he ever recorded.</p>
+    	</div>
+    </div>
+
+    <hr class="featurette-divider">
+                                
+    <div class="row featurette">
+    	<div class="col-md-7">  
+    		<h2 class="featurette-heading">Greek Christmas</h2>
+    		<p class="lead">We frequently abbreviate Christmas as X-mas because of ancient tradition. X is the Greek letter "chi" which is an abbreviation for the word "Christ" in Greek.</p>
+    	</div>
+    	<div class="col-md-5">
+    		<img class="featurette-image img-responsive" src="images/kalle-anka.jpg" alt="Kalle Anke">
     	</div>
     </div>
 
