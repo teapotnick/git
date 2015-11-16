@@ -1,7 +1,8 @@
 <?php include('template-parts/header.php'); ?>
 <div class="form contact-form">
-	<h2>Get in touch with Santa</h2>
 	<form action="#" method="POST">
+		<h2>Get in touch with Santa</h2>
+
 		<div class="field-wrapper">
 			<input type="text" placeholder="your name" />
 		</div>
