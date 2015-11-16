@@ -1,4 +1,6 @@
-<?php include('template-parts/header.php'); ?>
+<?php
+// CHANGE
+include('template-parts/header.php'); ?>
 
 <!-- Carousel
 ================================================== -->
