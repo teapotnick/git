@@ -102,7 +102,7 @@ include('template-parts/header.php'); ?>
     	</div>
     	<div class="col-md-7">
     		<h2 class="featurette-heading">This is the next most Christmasy image on Google <span class="text-muted">See for yourself.</span></h2>
-    		<p class="lead">If you reckognise these guys you may want to keep it yo yourself</p>
+    		<p class="lead">If you recognise these guys you may want to keep it yo yourself</p>
     	</div>
     </div>
 
