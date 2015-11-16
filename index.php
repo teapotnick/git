@@ -119,6 +119,16 @@ include('template-parts/header.php'); ?>
     </div>
 
     <hr class="featurette-divider">
+                                
+    <div class="row featurette">
+    	<div class="col-md-7">  
+    		<h2 class="featurette-heading">Sweden's Donald Duck Christmas Eve</h2>
+    		<p class="lead">In Sweden, on Christmas Eve, about half of the population settles down in front of the TV to watch a Donald Duck special called Kalle Anka which, along with its characters and cartoons, are ingrained in Swedish pop culture as a Christmas tradition.</p>
+    	</div>
+    	<div class="col-md-5">
+    		<img class="featurette-image img-responsive" src="images/kalle-anke.jpg" alt="Kalle Anke">
+    	</div>
+    </div>
 
     <!-- /END THE FEATURETTES -->
 
