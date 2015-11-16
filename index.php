@@ -12,6 +12,7 @@ include('template-parts/header.php'); ?>
     	<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
     	<li data-target="#myCarousel" data-slide-to="1"></li>
     	<li data-target="#myCarousel" data-slide-to="2"></li>
+    	<li data-target="#myCarousel" data-slide-to="3"></li>
     </ol>
     <div class="carousel-inner">
     	<div class="item active">
@@ -45,7 +46,7 @@ include('template-parts/header.php'); ?>
     		</div>
     	</div>
 		<div class="item">
-    		<img src="" alt="Third slide">
+    		<img src="" alt="Fourth slide">
     		<div class="container">
     			<div class="carousel-caption">
 					<img src="/images/hamster1.gif" class="hamster" alt="Third slide">
