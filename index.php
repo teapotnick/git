@@ -46,7 +46,7 @@ include('template-parts/header.php'); ?>
     		</div>
     	</div>
 		<div class="item">
-    		<img src="" alt="Fourth slide">
+    		<img src="/images/grass.jpg" alt="Fourth slide">
     		<div class="container">
     			<div class="carousel-caption">
 					<img src="/images/hamster1.gif" class="hamster" alt="Third slide">
