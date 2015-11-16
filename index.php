@@ -62,7 +62,7 @@ include('template-parts/header.php'); ?>
     	<div class="col-lg-4">
     		<img class="img-circle" src="images/past.jpg" alt="PAST" style="width: 140px; height: 140px;">
     		<h2>Christmas Past</h2>
-    		<p>Some muppet</p>
+    		<p>Some muppet, on a guilt trip.</p>
     		<p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
     	</div><!-- /.col-lg-4 -->
     	<div class="col-lg-4">
