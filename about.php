@@ -12,4 +12,5 @@ include('template-parts/header.php');
 	<img class="img-circle" src="images/present.jpg" alt="PRESENT" style="width: 140px; height: 140px;">
 
 
+
 <?php include('template-parts/footer.php'); ?>
