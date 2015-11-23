@@ -11,19 +11,7 @@
         <li data-target="#myCarousel" data-slide-to="3"></li>
     </ol>
     <div class="carousel-inner">
-    	<div class="item active">
-    		<div class="container">
-    			<div class="carousel-caption">
-
-
-    				<h1>Black Friday Deals!.. thats racist..!</h1>
-    				<p>New deals from today right up through to cyber monday!</p>
-    				<p><a class="btn btn-lg btn-primary" href="#" role="button">Shop Now</a></p>
-
-    			</div>
-    		</div>
-    	</div>
-        <div class="item">
+        <div class="item active">
     		<img src="/img-1.jpg" alt="Third slide">
     		<div class="container">
     			<div class="carousel-caption">
