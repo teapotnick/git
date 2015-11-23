@@ -8,6 +8,7 @@
     	<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
     	<li data-target="#myCarousel" data-slide-to="1"></li>
     	<li data-target="#myCarousel" data-slide-to="2"></li>
+        <li data-target="#myCarousel" data-slide-to="3"></li>
     </ol>
     <div class="carousel-inner">
     	<div class="item active">
@@ -20,7 +21,7 @@
     		</div>
     	</div>
     	<div class="item">
-    		<img src='claire-bob-img-1.jpg' alt="Second slide">
+    		<img src="http://www.wallpapereast.com/static/images/creative-nature-hd-nature-hd-greenish-nature.jpg" alt="Second slide">
     		<div class="container">
     			<div class="carousel-caption">
     				<h1>Tony Tash</h1>
@@ -30,7 +31,7 @@
     		</div>
     	</div>
     	<div class="item">
-    		<img src="claire-bob-img-1 copy.jpg" alt="Third slide">
+    		<img src="http://www.wallpapereast.com/static/images/creative-nature-hd-nature-hd-greenish-nature.jpg" alt="Third slide">
     		<div class="container">
     			<div class="carousel-caption">
     				<h1>Nick S ZZZZZZZZZZZzzzzzzzzzz......</h1>
