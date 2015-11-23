@@ -15,11 +15,11 @@
     		<div class="container">
     			<div class="carousel-caption">
 
+
     				<h1>If you notice this notice you will.. </h1>
     				<p>Notice this notice is not worth noticing.. <br/>
                     Lorum ipsum - I don't know spanish</p>
     				<p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up to be a gay</a></p>
-                    
 
     			</div>
     		</div>
@@ -39,9 +39,11 @@
     		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAFVVVQAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Third slide">
     		<div class="container">
     			<div class="carousel-caption">
-    				<h1>Who do you think I am?</h1>
-    				<p>Texttexttexttexttexttexttexttexttexttexttexttexttext<br/>texttexttwattexttexttexttexttexttexttexttext<br/>
-                    texttexttexttexttexttexttexttexttexttexttwattexttexttexttexttexttexttexttext</p>
+
+    				<h1>Gallery</h1>
+    				<p>New images added daily, in 4K resolution!</p>
+
+
     				<p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
     			</div>
     		</div>
