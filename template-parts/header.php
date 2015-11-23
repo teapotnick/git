@@ -27,5 +27,5 @@
 <!-- NAVBAR
 ================================================== -->
 	<body>
-        <p style="font-size:8px;">Small change here... shh</p>
+        <p style="font-size:8px;">Small change here... shhhhhhhh</p>
 		<?php include('navbar.php'); ?>
