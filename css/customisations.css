@@ -1,8 +1,24 @@
 /* put your page styling customisations here! */
+form {
+    float: left;
+    width: 100%;
+}
+
+form label {
+    float: left;
+}
 
 form input {
     width: 100%;
     float: left;
+}
+
+form textarea {
+    float: left;
+    clear: both;
+    width: 100%;
+    margin-bottom: 15px;
+    height: 230px;
 }
 
 form input[type=submit] {
@@ -11,4 +27,9 @@ form input[type=submit] {
 
 .contact-page {
     background: #fff;
+}
+
+.contact-page iframe {
+    float: left;
+    margin-top: 25px;
 }
