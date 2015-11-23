@@ -13,8 +13,8 @@
     		<img src="/img-1.jpg" alt="Third slide">
     		<div class="container">
     			<div class="carousel-caption">
-    				<h1>Nick S ZZZZZZZZZZZzzzzzzzzzz......</h1>
-    				<p>Yep he fell asleep.</p>
+    				<h1>James is gay, James is Gay........</h1>
+    				<p>You can now buy on vynal form all HMV stores.. in digital dolby surround sound.</p>
 
     				<p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
     			</div>
