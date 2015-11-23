@@ -23,7 +23,7 @@
     		</div>
     	</div>
     	<div class="item">
-    		<img src="/img-2.jpg" alt="Second slide">
+    		<img src="/img-2.png" alt="Second slide">
     		<div class="container">
     			<div class="carousel-caption">
     				<h1>Tony Tash</h1>
