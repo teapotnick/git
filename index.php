@@ -14,9 +14,10 @@
     		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="First slide">
     		<div class="container">
     			<div class="carousel-caption">
-    				<h1>Slide 1 Heading</h1>
-    				<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-    				<p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
+    				<h1>If you notice thsi notice you will.. </h1>
+    				<p>Notice this notice is not worth noticing.. </p>
+    				<p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up to be a gay</a></p>
+                    
     			</div>
     		</div>
     	</div>
@@ -24,8 +25,8 @@
     		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAGZmZgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Second slide">
     		<div class="container">
     			<div class="carousel-caption">
-    				<h1>Slide 2 Heading</h1>
-    				<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+    				<h1>This is piece of Git.. </h1>
+    				<p>Ohh my god this is blowing my mind, I think I have had 3 brain farts this morning... </p>
     				<p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
     			</div>
     		</div>
