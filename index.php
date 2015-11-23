@@ -26,9 +26,8 @@
     		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAGZmZgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Second slide">
     		<div class="container">
     			<div class="carousel-caption">
-    				<h1>This is piece of Git.. </h1>
-    				<p>Ohh my god this is blowing my mind, I think I have had 3 brain farts this morning... </p>
-
+    				<h1>WordPress Development<h1>
+    				<p>We have been building WordPress websites for 99 years.</p>
     				<p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
     			</div>
     		</div>
@@ -38,8 +37,11 @@
     		<div class="container">
     			<div class="carousel-caption">
 
-    				<h1>Gallery</h1>
-    				<p>New images added daily, in 4K resolution!</p>
+
+
+  					<h1>WordPress Design<h1>
+    				<p>We have been designing WordPress websites for 99 years.</p>
+
     				<p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
     			</div>
     		</div>
