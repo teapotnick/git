@@ -6,6 +6,7 @@ form {
 
 form label {
     float: left;
+    margin-top: 15px;
 }
 
 form input {
