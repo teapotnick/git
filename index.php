@@ -14,8 +14,8 @@
     		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="First slide">
     		<div class="container">
     			<div class="carousel-caption">
-    				<h1>Slide 1 Heading</h1>
-    				<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+    				<h1>Nick C is really old</h1>
+    				<p>Yeah, like, proper old like Father Christmas.</p>
     				<p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
     			</div>
     		</div>
@@ -24,8 +24,8 @@
     		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAGZmZgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Second slide">
     		<div class="container">
     			<div class="carousel-caption">
-    				<h1>Slide 2 Heading</h1>
-    				<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+    				<h1>Tony Tash</h1>
+    				<p>Ironic that the only gut that can't actually grow a tash is called Tony Tash.</p>
     				<p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
     			</div>
     		</div>
@@ -34,8 +34,8 @@
     		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAFVVVQAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Third slide">
     		<div class="container">
     			<div class="carousel-caption">
-    				<h1>Slide 3 Heading</h1>
-    				<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+    				<h1>Nick S ZZZZZZZZZZZzzzzzzzzzz......</h1>
+    				<p>Yep he fell asleep.</p>
     				<p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
     			</div>
     		</div>
