@@ -22,7 +22,7 @@
 		<!-- Custom styles for this template -->
 		<link href="css/carousel.css" rel="stylesheet">
 		<link href="css/customisations.css" rel="stylesheet">
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css"> 
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">  
 		<script src="js/holder.js"></script>
 	</head>
 <!-- NAVBAR
