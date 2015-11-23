@@ -9,7 +9,18 @@
     	<li data-target="#myCarousel" data-slide-to="1"></li>
     </ol>
     <div class="carousel-inner">
-         	<div class="item">
+        <div class="item active">
+    		<img src="/img-1.jpg" alt="Third slide">
+    		<div class="container">
+    			<div class="carousel-caption">
+    				<h1>James is gay, James is Gay........</h1>
+    				<p>You can now buy on vynal form all HMV stores.. in digital dolby surround sound.</p>
+
+    				<p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
+    			</div>
+    		</div>
+    	</div>
+    	<div class="item">
     		<img src="/img-2.png" alt="Second slide">
     		<div class="container">
     			<div class="carousel-caption">
