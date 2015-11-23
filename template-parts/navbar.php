@@ -14,7 +14,7 @@
 				<div class="navbar-collapse collapse">
 					<ul class="nav navbar-nav">
 						<li class="active"><a href="index.php">Home</a></li>
-						<li><a href="twitterfeed.php">Twitter</a></li>
+							<li><a href="twitterfeed.php">Twitter</a></li>
 						<li><a href="contact.php">Contact</a></li>
 						<li class="dropdown">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Staff<span class="caret"></span></a>
@@ -23,7 +23,7 @@
 								<li><a href="#">Sleepy Nick</a></li>
 								<li><a href="#">Tony aka (Anthony)</a></li>
     							<li><a href="#">Dangry</a></li>                                
-    							<li><a href="#">Hairy Calumn</a></li>                                
+    							<li><a href="#">Hairy Calumn</a></li>
     							<li><a href="#">Gigner Ade</a></li>
     							<li><a href="#">Teaboy Alex</a></li>
     							<li><a href="#">Tonks</a></li>
