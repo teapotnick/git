@@ -14,10 +14,10 @@
     		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="First slide">
     		<div class="container">
     			<div class="carousel-caption">
-
     				<h1>Black Friday Deals!.. thats racist..!</h1>
     				<p>New deals from today right up through to cyber monday!</p>
     				<p><a class="btn btn-lg btn-primary" href="#" role="button">Shop Now</a></p>
+
 
     			</div>
     		</div>
@@ -37,10 +37,10 @@
     		<div class="container">
     			<div class="carousel-caption">
 
+    				<h1>Gallery</h1>
+    				<p>New images added daily, in 4K resolution!</p>
 
 
-  					<h1>WordPress Design<h1>
-    				<p>We have been designing WordPress websites for 99 years.</p>
 
     				<p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
     			</div>
