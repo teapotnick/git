@@ -14,11 +14,15 @@
     		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="First slide">
     		<div class="container">
     			<div class="carousel-caption">
+<<<<<<< HEAD
     				<h1>new heading here again</h1>
     				<p>This is some test text for the 1st slide - The quick brown fox jumped over the lazy dog.</p>
 
+=======
+    				<h1>Nick C is really old</h1>
+    				<p>Yeah, like, proper old like Father Christmas.</p>
+>>>>>>> master
     				<p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
-
     			</div>
     		</div>
     	</div>
@@ -26,8 +30,8 @@
     		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAGZmZgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Second slide">
     		<div class="container">
     			<div class="carousel-caption">
-    				<h1>WordPress Development<h1>
-    				<p>We have been building WordPress websites for 99 years.</p>
+    				<h1>Tony Tash</h1>
+    				<p>Ironic that the only gut that can't actually grow a tash is called Tony Tash.</p>
     				<p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
     			</div>
     		</div>
@@ -36,11 +40,7 @@
     		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAFVVVQAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Third slide">
     		<div class="container">
     			<div class="carousel-caption">
-
-    				<h1>Gallery</h1>
-    				<p>New images added daily, in 4K resolution!</p>
-
-
+    				<h1>Ade is Ginger</h1>
 
     				<p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
     			</div>
