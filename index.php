@@ -46,7 +46,7 @@
     		<div class="container">
     			<div class="carousel-caption">
     				<h1>New slide, new offers!</h1>
-    				<p>For a limited time only! Massive savings.</p>
+    				<p>For a limited time only! Massive savings all day!</p>
 
     				<p><a class="btn btn-lg btn-primary" href="#" role="button">Shop Now</a></p>
     			</div>
