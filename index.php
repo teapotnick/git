@@ -11,7 +11,7 @@
     </ol>
     <div class="carousel-inner">
     	<div class="item active">
-    		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="First slide">
+    		<img src="http://www.wallpapereast.com/static/images/creative-nature-hd-nature-hd-greenish-nature.jpg" alt="First slide">
     		<div class="container">
     			<div class="carousel-caption">
     				<h1>Nick C is really old</h1>
@@ -21,7 +21,7 @@
     		</div>
     	</div>
     	<div class="item">
-    		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAGZmZgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Second slide">
+    		<img src="http://www.wallpapereast.com/static/images/creative-nature-hd-nature-hd-greenish-nature.jpg" alt="Second slide">
     		<div class="container">
     			<div class="carousel-caption">
     				<h1>Tony Tash</h1>
@@ -31,7 +31,7 @@
     		</div>
     	</div>
     	<div class="item">
-    		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAFVVVQAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Third slide">
+    		<img src="http://www.wallpapereast.com/static/images/creative-nature-hd-nature-hd-greenish-nature.jpg" alt="Third slide">
     		<div class="container">
     			<div class="carousel-caption">
     				<h1>Nick S ZZZZZZZZZZZzzzzzzzzzz......</h1>
