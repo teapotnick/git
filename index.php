@@ -20,7 +20,7 @@
     		</div>
     	</div>
     	<div class="item">
-    		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAGZmZgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Second slide">
+    		<img src='claire-bob-img-1.jpg' alt="Second slide">
     		<div class="container">
     			<div class="carousel-caption">
     				<h1>Tony Tash</h1>
@@ -30,7 +30,7 @@
     		</div>
     	</div>
     	<div class="item">
-    		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAFVVVQAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Third slide">
+    		<img src="claire-bob-img-1 copy.jpg" alt="Third slide">
     		<div class="container">
     			<div class="carousel-caption">
     				<h1>Nick S ZZZZZZZZZZZzzzzzzzzzz......</h1>
