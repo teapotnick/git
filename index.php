@@ -35,9 +35,20 @@
     		<div class="container">
     			<div class="carousel-caption">
     				<h1>Nick S ZZZZZZZZZZZzzzzzzzzzz......</h1>
-    				<p>Yep he fell asleep.</p> =======
+    				<p>Yep he fell asleep.</p>
 
     				<p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
+    			</div>
+    		</div>
+    	</div>
+        <div class="item">
+    		<img src="http://www.wallpapereast.com/static/images/creative-nature-hd-nature-hd-greenish-nature.jpg" alt="Third slide">
+    		<div class="container">
+    			<div class="carousel-caption">
+    				<h1>New slide, new offers!</h1>
+    				<p>For a limited time only! Massive savings all day!</p>
+
+    				<p><a class="btn btn-lg btn-primary" href="#" role="button">Shop Now</a></p>
     			</div>
     		</div>
     	</div>
