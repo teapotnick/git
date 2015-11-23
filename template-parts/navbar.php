@@ -27,7 +27,7 @@
     							<li><a href="#">Ginger Ade</a></li>
     							<li><a href="#">Teaboy Alex</a></li>
     							<li><a href="#">Tonks</a></li>
-                                <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">James (is gay)</a></li>
+                                <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">James (is gay!)</a></li>
                            	</ul>
 						</li>
 					</ul>
