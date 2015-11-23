@@ -28,7 +28,7 @@
     		<div class="container">
     			<div class="carousel-caption">
     				<h1>Tony Tash</h1>
-    				<p>Ironic that the only gut that can't actually grow a tash is called Tony Tash.</p>
+    				<p>Ironic that the only guy that can't actually grow a tash is called Tony Tash.</p>
     				<p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
     			</div>
     		</div>
