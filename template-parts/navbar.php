@@ -13,23 +13,23 @@
 				</div>
 				<div class="navbar-collapse collapse">
 					<ul class="nav navbar-nav">
-						<li class="active"><a href="#">Home</a></li>
-						<li><a href="http://www.google.co.uk">New Menu 1</a></li>
-				     	<li><a href="http://www.google.com">New Menu 2</a></li>
-						<li><a href="#about">About</a></li>
-						<li><a href="#contact">Contact</a></li>
+						<li class="active"><a href="index.php">Home</a></li>
+							<li><a href="twitterfeed.php">Twitter</a></li>
+						<li><a href="contact.php">Contact</a></li>
 						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <span class="caret"></span></a>
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Staff<span class="caret"></span></a>
 							<ul class="dropdown-menu" role="menu">
-								<li><a href="#">Action</a></li>
-								<li><a href="#">Another action</a></li>
-								<li><a href="#">Something else here</a></li>
-								<li class="divider"></li>
-								<li class="dropdown-header">Nav header</li>
-								<li><a href="#">Separated link</a></li>
-								<li><a href="#">One more separated link</a></li>
-							</ul>
-						</li>
+								<li><a href="#">Old Nick</a></li>
+								<li><a href="#">Sleepy Nick</a></li>
+								<li><a href="#">Tony aka (Anthony)</a></li>
+    							<li><a href="#">Dangry</a></li>                                
+    							<li><a href="#">Hairy Calumn</a></li>
+    							<li><a href="#">Gigner Ade</a></li>
+    							<li><a href="#">Teaboy Alex</a></li>
+    							<li><a href="#">Tonks</a></li>
+                                <li><a href="#">James (is gay)</a></li>
+                           	</ul>
+						</li>                        
 					</ul>
 				</div>
 			</div>
