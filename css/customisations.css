@@ -28,3 +28,8 @@ form input[type=submit] {
 .contact-page {
     background: #fff;
 }
+
+.contact-page iframe {
+    float: left;
+    margin-top: 25px;
+}
