@@ -22,7 +22,8 @@
 		<!-- Custom styles for this template -->
 		<link href="css/carousel.css" rel="stylesheet">
 		<link href="css/customisations.css" rel="stylesheet">
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">   
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css"> 
+        <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css">  
 		<script src="js/holder.js"></script>
 	</head>
 <!-- NAVBAR
