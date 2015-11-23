@@ -14,9 +14,12 @@
     	<div class="item active">
     		<div class="container">
     			<div class="carousel-caption">
-    				<h1>Nick C is really old</h1>
-    				<p>Yeah, like, proper old like Father Christmas.</p>
-    				<p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
+
+
+    				<h1>Black Friday Deals!.. thats racist..!</h1>
+    				<p>New deals from today right up through to cyber monday!</p>
+    				<p><a class="btn btn-lg btn-primary" href="#" role="button">Shop Now</a></p>
+
     			</div>
     		</div>
     	</div>
