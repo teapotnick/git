@@ -11,30 +11,8 @@
         <li data-target="#myCarousel" data-slide-to="3"></li>
     </ol>
     <div class="carousel-inner">
-    	<div class="item active">
-    		<div class="container">
-    			<div class="carousel-caption">
-
-
-    				<h1>Black Friday Deals!.. thats racist..!</h1>
-    				<p>New deals from today right up through to cyber monday!</p>
-    				<p><a class="btn btn-lg btn-primary" href="#" role="button">Shop Now</a></p>
-
-    			</div>
-    		</div>
-    	</div>
-    	<div class="item">
-    		<img src="http://www.wallpapereast.com/static/images/creative-nature-hd-nature-hd-greenish-nature.jpg" alt="Second slide">
-    		<div class="container">
-    			<div class="carousel-caption">
-    				<h1>Tony Tash</h1>
-    				<p>Ironic that the only guy that can't actually grow a tash is called Tony Tash.</p>
-    				<p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
-    			</div>
-    		</div>
-    	</div>
-    	<div class="item">
-    		<img src="http://www.wallpapereast.com/static/images/creative-nature-hd-nature-hd-greenish-nature.jpg" alt="Third slide">
+        <div class="item active">
+    		<img src="/img-1.jpg" alt="Third slide">
     		<div class="container">
     			<div class="carousel-caption">
     				<h1>Nick S ZZZZZZZZZZZzzzzzzzzzz......</h1>
@@ -44,18 +22,17 @@
     			</div>
     		</div>
     	</div>
-        <div class="item">
-    		<img src="http://www.wallpapereast.com/static/images/creative-nature-hd-nature-hd-greenish-nature.jpg" alt="Third slide">
+    	<div class="item">
+    		<img src="/img-2.png" alt="Second slide">
     		<div class="container">
     			<div class="carousel-caption">
-    				<h1>New slide, new offers!</h1>
-    				<p>For a limited time only! Massive savings all day!</p>
-
-    				<p><a class="btn btn-lg btn-primary" href="#" role="button">Shop Now</a></p>
+    				<h1>Tony Tash</h1>
+    				<p>Ironic that the only guy that can't actually grow a tash is called Tony Tash.</p>
+    				<p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
     			</div>
     		</div>
     	</div>
-    </div>
+    	</div>
     <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
     <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
 </div><!-- /.carousel -->
