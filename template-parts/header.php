@@ -29,10 +29,7 @@
 <!-- NAVBAR
 ================================================== -->
 	<body>
-<<<<<<< HEAD
-        <p style="font-size:8px;">Small change here... shhhhhhhh</p>
-		<?php include('navbar.php'); ?>
-=======
+
 
 		<?php include('navbar.php'); ?>
->>>>>>> 0e6361a3b5c7b5e103257624dbc54c86a0691b71
+
