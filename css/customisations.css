@@ -1,1 +1,14 @@
 /* put your page styling customisations here! */
+
+form input {
+    width: 100%;
+    float: left;
+}
+
+form input[type=submit] {
+    width: 200px;
+}
+
+.contact-page {
+    background: #fff;
+}
