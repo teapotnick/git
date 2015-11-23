@@ -16,7 +16,8 @@
     			<div class="carousel-caption">
 
     				<h1>If you notice this notice you will.. </h1>
-    				<p>Notice this notice is not worth noticing.. </p>
+    				<p>Notice this notice is not worth noticing.. <br/>
+                    Lorum ipsum - I don't know spanish</p>
     				<p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up to be a gay</a></p>
                     
 
