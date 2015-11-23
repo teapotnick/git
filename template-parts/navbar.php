@@ -24,9 +24,9 @@
 								<li><a href="#">Tony aka (Anthony)</a></li>
     							<li><a href="#">Dangry</a></li>                                
     							<li><a href="#">Hairy Calumn</a></li>
-    							<li><a href="#">Gigner Ade</a></li>
+    							<li><a href="#">Ginger Ade</a></li>
     							<li><a href="#">Teaboy Alex</a></li>
-    							<li><a href="#">Tonks</a></li>
+    							<li><a href="#">Milkboy Kid</a></li>
                                 <li><a href="#">James (is gay)</a></li>
                            	</ul>
 						</li>                        
