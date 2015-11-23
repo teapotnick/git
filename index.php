@@ -14,11 +14,11 @@
     		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="First slide">
     		<div class="container">
     			<div class="carousel-caption">
-
     				<h1>Heading for slide 1</h1>
     				<p>This is some test text for the 1st slide - The quick brown fox jumped over the lazy dog.</p>
 
     				<p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
+
     			</div>
     		</div>
     	</div>
@@ -26,8 +26,8 @@
     		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAGZmZgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Second slide">
     		<div class="container">
     			<div class="carousel-caption">
-    				<h1>Stop looking for an offensive title</h1>
-    				<p>Unfortunately I don't know spanish to write all the lorum ipsum</p>
+    				<h1>WordPress Development<h1>
+    				<p>We have been building WordPress websites for 99 years.</p>
     				<p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
     			</div>
     		</div>
@@ -36,9 +36,12 @@
     		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAFVVVQAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Third slide">
     		<div class="container">
     			<div class="carousel-caption">
-    				<h1>Who do you think I am?</h1>
-    				<p>Texttexttexttexttexttexttexttexttexttexttexttexttext<br/>texttexttwattexttexttexttexttexttexttexttext<br/>
-                    texttexttexttexttexttexttexttexttexttexttwattexttexttexttexttexttexttexttext</p>
+
+    				<h1>Gallery</h1>
+    				<p>New images added daily, in 4K resolution!</p>
+
+
+
     				<p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
     			</div>
     		</div>
@@ -109,11 +112,11 @@
 
     <div class="row featurette">
     	<div class="col-md-7">
-    		<h2 class="featurette-heading">And lastly, this one. <span class="text-muted">Checkmate.</span></h2>
+    		<h2 class="featurette-heading">And lastly, Ainsley. <span class="text-muted">Checkmate.</span></h2>
     		<p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
     	</div>
     	<div class="col-md-5">
-    		<img class="featurette-image img-responsive" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
+    		<img src="http://vignette1.wikia.nocookie.net/batiatus-academy/images/e/e5/Food-drink_02_temp-1326120457-4f0afe09-620x348.jpg" class="featurette-image img-responsive" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
     	</div>
     </div>
 
