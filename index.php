@@ -24,8 +24,8 @@
     		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAGZmZgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Second slide">
     		<div class="container">
     			<div class="carousel-caption">
-    				<h1>New Prestashop Modules</h1>
-    				<p>Prestashop modules for all of your everyday needs.</p>
+    				<h1>Stop looking for an offensive title</h1>
+    				<p>Unfortunately I don't know spanish to write all the lorum ipsum</p>
     				<p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
     			</div>
     		</div>
@@ -36,6 +36,7 @@
     			<div class="carousel-caption">
     				<h1>Gallery</h1>
     				<p>New images added daily, in 4K resolution!</p>
+
     				<p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
     			</div>
     		</div>
