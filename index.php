@@ -137,7 +137,7 @@
     <!-- FOOTER -->
     <footer>
     	<p class="pull-right"><a href="#">Back to top</a></p>
-    	<p>&copy; 2015 Company, Inc. &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p><p class="pull-right">Designed by Teapot Creative &middot; <a href="www.teapotcreative.co.uk">Our Site</a></p>
+    	<p>&copy; 2015 Company, Inc. &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p><p class="pull-right">Designed by Teapot Creative &middot; <a href="http://www.teapotcreative.co.uk" rel="nofollow">Our Site</a></p>
     </footer>
 
 </div><!-- /.container -->
