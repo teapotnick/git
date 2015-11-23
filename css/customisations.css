@@ -40,3 +40,9 @@ form input[type=submit] {
     float: left;
     margin-top: 50px;
 }
+
+.contact-page footer {
+    float: left;
+    width: 100%;
+    margin-top: 40px;
+}
