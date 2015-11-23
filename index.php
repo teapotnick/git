@@ -14,7 +14,7 @@
     		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="First slide">
     		<div class="container">
     			<div class="carousel-caption">
-    				<h1>Heading for slide 1</h1>
+    				<h1>new heading here</h1>
     				<p>This is some test text for the 1st slide - The quick brown fox jumped over the lazy dog.</p>
 
     				<p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
