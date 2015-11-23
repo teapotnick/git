@@ -14,10 +14,10 @@
     		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="First slide">
     		<div class="container">
     			<div class="carousel-caption">
+
     				<h1>Black Friday Deals!.. thats racist..!</h1>
     				<p>New deals from today right up through to cyber monday!</p>
     				<p><a class="btn btn-lg btn-primary" href="#" role="button">Shop Now</a></p>
-
 
     			</div>
     		</div>
