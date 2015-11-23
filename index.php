@@ -15,7 +15,7 @@
     		<div class="container">
     			<div class="carousel-caption">
 
-    				<h1>Black Friday Deals!</h1>
+    				<h1>Black Friday Deals!.. thats racist..!</h1>
     				<p>New deals from today right up through to cyber monday!</p>
     				<p><a class="btn btn-lg btn-primary" href="#" role="button">Shop Now</a></p>
 
