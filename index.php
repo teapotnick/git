@@ -15,6 +15,7 @@
     		<div class="container">
     			<div class="carousel-caption">
 
+
     				<h1>Black Friday Deals!.. thats racist..!</h1>
     				<p>New deals from today right up through to cyber monday!</p>
     				<p><a class="btn btn-lg btn-primary" href="#" role="button">Shop Now</a></p>
@@ -26,8 +27,8 @@
     		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAGZmZgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Second slide">
     		<div class="container">
     			<div class="carousel-caption">
-    				<h1>WordPress Development<h1>
-    				<p>We have been building WordPress websites for 99 years.</p>
+    				<h1>Tony Tash</h1>
+    				<p>Ironic that the only gut that can't actually grow a tash is called Tony Tash.</p>
     				<p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
     			</div>
     		</div>
@@ -36,11 +37,8 @@
     		<img src="data:image/gif;base64,R0lGODlhAQABAIAAAFVVVQAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Third slide">
     		<div class="container">
     			<div class="carousel-caption">
-
-    				<h1>Gallery</h1>
-    				<p>New images added daily, in 4K resolution!</p>
-
-
+    				<h1>Nick S ZZZZZZZZZZZzzzzzzzzzz......</h1>
+    				<p>Yep he fell asleep.</p> =======
 
     				<p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
     			</div>
