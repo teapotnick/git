@@ -35,7 +35,8 @@
     		<div class="container">
     			<div class="carousel-caption">
     				<h1>Who do you think I am?</h1>
-    				<p>Texttexttexttexttexttexttexttexttexttexttexttexttexttexttexttwattexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttwattexttexttexttexttexttexttexttext</p>
+    				<p>Texttexttexttexttexttexttexttexttexttexttexttexttext<br/>texttexttwattexttexttexttexttexttexttexttext<br/>
+                    texttexttexttexttexttexttexttexttexttexttwattexttexttexttexttexttexttexttext</p>
     				<p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
     			</div>
     		</div>
