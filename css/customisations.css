@@ -29,7 +29,12 @@ form input[type=submit] {
     background: #fff;
 }
 
+.contact-page h1 {
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
 .contact-page iframe {
     float: left;
-    margin-top: 25px;
+    margin-top: 50px;
 }
